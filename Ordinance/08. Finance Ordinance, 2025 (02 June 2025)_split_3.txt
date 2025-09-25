@@ -1,0 +1,112 @@
+পৃষ্ঠা/Page 21
+--------------------------------------------------
+Heading(BN) | HS Code | Description | SD% (BN) [SD% numeric]
+৩৩.০৭ | সকল এইচ,এস,কোড | শেভের আগে, শেভের পরে বা শেভের সময় ব্যবহার্য সামগ্রী; শরীরের দুর্গন্ধ দুরীকরণে ব্যবহৃত সামগ্রী, ডিপাইলেটরী এবং অন্যান্য সুগন্ধি, প্রসাধনী ও টয়লেট সামগ্রী যা অন্য কোথাও বর্ণিত বা অন্তর্ভুক্ত নহে; কক্ষের দুর্গন্ধ নাশক (সুগন্ধিযুক্ত হুউক বা না হুউক) অথবা জীবানুনাশক ক্ষমতা থাকুক বা না থাকুক) | ৩০ [30]
+৩৩.০৭ | ৩৩০৭.২০.০০ | Personal deodorants and antiperspirants | ৩০ [30]
+৩৩.০৭ | ৩৩০৭.৯০.০০ | অন্যান্য | ৩০ [30]
+৩৪.০১ | সকল এইচ,এস,কোড | সাবান এবং সাবান হিসাবে ব্যবহৃত সারফেস একটিভ সামগ্রী এবং সমজাতীয় পণ্য | ৬০ [60]
+৩৪.০২ | ৩৪০২.৫০.০০ | Preparations put up for retail sale | ৩০ [30]
+৩৪.০২ | ৩৪০২.৯০.১০ | ডিটারজেন্ট | ৩০ [30]
+৩৪.০৫ | ৩৪০৫.১০.০০ | Polishes, creams and similar preparations for footwear or leather | ২০ [20]
+৩৬.০১ | ৩৬০১.০০.০০ | বিষ্ফোরক পাউডার | ৩০ [30]
+৩৬.০২ | ৩৬০২.০০.০০ | তৈরি বিষ্ফোরক, বিষ্ফোরক পাউডার ব্যতীত | ৩০ [30]
+৩৬.০৪ | সকল এইচ,এস,কোড | আতশবাজি সিগনালিং ফ্লেয়ার, রেইন রকেট, ফগ সিগনাল এবং অন্যান্য পাইরোটেকনিক পণ্য | ৩০ [30]
+৩৬.০৫ | ৩৬০৫.০০.০০ | দিয়াশলাই; শিরনামা সংখ্যা ৩৬.০৪ এর পাইরোটেকনিক পণ্য সামগ্রী ব্যতীত | ২০ [20]
+৩৮.০৮ | ৩৮০৮.৯১.২১ | Mosquito coil; aerosol; mosquito repellent | ২০ [20]
+৩৮.২৪ | ৩৮২৪.৯৯.২০ | Chlorinated parafin wax | ১০ [10]
+৩৯.১৭ | ৩৯১৭.২১.০০ | Tubes, pipes and hoses, rigid of polymers of ethylene | ৩০ [30]
+৩৯.১৭ | ৩৯১৭.২২.০০ | Tubes, pipes and hoses, rigid of polymers of propylene | ৩০ [30]
+৩৯.১৭ | ৩৯১৭.২৩.৯০ | Tubes, pipes and hoses, rigid of polymers of vinyl chloride (excluding PVC shrinkable tube (plain)) | ৩০ [30]
+
+================================================================================
+
+পৃষ্ঠা/Page 22
+--------------------------------------------------
+**Table:**
+
+<table border="1"><thead><tr><th>শিরনামা<br>সংখ্যা<br>(Heading)</th><th>সামঞ্জস্যপূর্ণ<br>নামকরণ কোড<br>(H.S. Code)</th><th>পণ্যসমূহের বিবরণ<br>(Description of Goods)</th><th>সম্পূরক<br>শুল্কহার<br>(%)</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td rowspan="2"></td><td>৩৯১৭.২৯.৯১</td><td>Fibre glass imported by VAT registered<br>electric fan manufacturers</td><td>৩০</td></tr><tr><td>৩৯১৭.২৯.৯৯</td><td>Tubes, pipes and hoses, rigid of other plastics<br>(excluding Silicone tubing for laboratory use;<br>Hoses pipe for gas cylinder)</td><td>৩০</td></tr><tr><td>৩৯.১৮</td><td>সকল<br>এইচ,এস,কোড</td><td>প্লাস্টিকের তৈরি ফ্লোর কাভারিং, ওয়াল অথবা সিলিং কাভারিং, সেলফ এডহেসিভ হুউক বা না হুউক (রোল অথবা টাইল আকারে)</td><td>২০</td></tr><tr><td>৩৯.১৯</td><td>৩৯১৯.৯০.৯৯</td><td>প্লাস্টিকের তৈরি সেলফ এডহেসিভ প্লেট, শীট, ফিল্ম, ফয়েল, টেপ, স্ট্রীপ এবং অন্যান্য ফ্ল্যাট আকৃতি (রোল আকারে) (মূসক নিবন্ধিত প্রতিষ্ঠান ব্যতীত)</td><td>১০</td></tr><tr><td rowspan="8">৩৯.২০</td><td colspan="3">প্লাস্টিকের প্লেট, শীট, ফিল্ম, ফয়েল, স্ট্রীপ (নন-সেলুলার, রিইনফোর্সড নহে, অন্য কোনো পদার্থ দ্বারা ল্যামিনেটেড, সাপোর্টেড বা অন্য কোনো পদার্থের সাথে অনুরূপ উপায়ে সমন্বিত):</td></tr><tr><td>৩৯২০.২০.১০</td><td>ছাপানো আকারে প্রোপাইলিন পলিমারের তৈরি (ওষধ শিল্প কর্তৃক আমদানিকৃত ওষধ প্রশাসনের প্রত্যয়নকৃত ব্লকলিস্টভূক্ত পণ্য ব্যতীত)</td><td>১০</td></tr><tr><td>৩৯২০.৪৯.২১</td><td>Printed PVC sheet Imported by VAT registered SIM card or Smart card manufacturing industry</td><td>২০</td></tr><tr><td>৩৯২০.৪৯.২৯</td><td>প্রিন্টেড পিভিসি শীট</td><td>২০</td></tr><tr><td>৩৯২০.৬২.১০</td><td>ছাপানো আকারে পলি ইথাইলিন টেরেফথেলেটের তৈরি</td><td>২০</td></tr><tr><td>৩৯২০.৬৯.১০</td><td>ছাপানো আকারে অন্যান্য পলিয়েস্টারের তৈরি</td><td>১০</td></tr><tr><td>৩৯২০.৯২.১০</td><td>ছাপানো আকারে প্লাস্টিকের তৈরি পলিমাইডস</td><td>১০</td></tr><tr><td>৩৯২০.৯৯.৯০</td><td>অন্যান্য প্লাস্টিক শীট</td><td>১০</td></tr><tr><td rowspan="2">৩৯.২১</td><td colspan="3">প্লাস্টিকের তৈরি অন্যান্য প্লেট, শীট, ফিল্ম, ফয়েল ও স্ট্রীপ (সেলুলার, রিইনফোর্সড, অন্য কোনো পদার্থ দ্বারা ল্যামিনেটেড, সাপোর্টেড বা অন্য কোনো পদার্থের সাথে অনুরূপ উপায়ে সমন্বিত):</td></tr><tr><td>৩৯২১.১৯.৯০</td><td>Other cellular plate/sheet/film/foil of plastic</td><td>২০</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 23
+--------------------------------------------------
+Heading(BN) | HS Code | Description | SD% (BN) [SD% numeric]
+৩৯.২১ | ৩৯২১.৯০.৯১ | ছাপানো আকারে অন্যান্য প্লাস্টিকের তৈরি সেলুলার, ভলকানাইজড, মেটালাইজড বা অনুরূপ প্লাস্টিক | ৩০ [30]
+৩৯.২১ | ৩৯২১.৯০.৯৯ | ছাপানো ব্যতীত অন্যান্য প্লাস্টিকের তৈরি সেলুলার, ভলকানাইজড, মেটালাইজড বা অনুরূপ প্লাস্টিক | ২০ [20]
+৩৯.২২ | সকল এইচ,এস,কোড | প্লাস্টিকের তৈরি বাথটাব, শাওয়ার বাথ, সিঙ্ক, ওয়াশ বেসিন, বিডেট, ল্যাভেটরী প্যান, সীট ও কভার, ফ্লাশিং সিস্টার্নস এবং অনুরূপ স্যানিটারী ওয়্যারস্ | ২০ [20]
+৩৯.২৩ |  | পণ্য বহন বা প্যাকিং এর জন্য ব্যবহৃত প্লাস্টিকের তৈরি দ্রব্যাদিঃ |  []
+৩৯.২৩ | ৩৯২৩.১০.০০ | প্লাস্টিকের তৈরি বাক্স, কেইস, ক্রেট এবং সমজাতীয় পণ্য | ৪০ [40]
+৩৯.২৩ | ৩৯২৩.২১.০০ | Sacks and bags (including cones) of polymers of ethylene other than plastics | ৪০ [40]
+৩৯.২৩ | ৩৯২৩.২৯.৯০ | Sacks and bags (including cones) of other plastics | ৪০ [40]
+৩৯.২৩ | ৩৯২৩.৩০.২০, ৩৯২৩.৩০.৯০ | কার্বয়, বোতল, ফ্লাস্ক ও সমজাতীয় পণ্য (ঔষধের স্যাশে ও ইনহেলারের কন্টেইনার ব্যতীত) | ৪০ [40]
+৩৯.২৩ | ৩৯২৩.৪০.৯০ | Other Spools, caps, bobbins and similar supports | ৪০ [40]
+৩৯.২৩ | ৩৯২৩.৫০.০০ | Stoppers, lids, caps and other closures | ৪০ [40]
+৩৯.২৩ | ৩৯২৩.৯০.৯০ | প্লাস্টিক প্যালেটস | ৪০ [40]
+৩৯.২৪ | ৩৯২৪.১০.০০ | প্লাস্টিকের টেবিলওয়্যার বা কিচেনওয়্যার | ৪০ [40]
+৩৯.২৪ | ৩৯২৪.৯০.১০ | Feeding Bottles | ২০ [20]
+৩৯.২৪ | ৩৯২৪.৯০.৯০ | অন্যান্য | ৪০ [40]
+৩৯.২৫ | ৩৯২৫.২০.০০ | প্লাস্টিকের তৈরি দরজা, জানালা ও উহাদের ফ্রেম এবং দরজার threshold | ৪০ [40]
+৩৯.২৫ | ৩৯২৫.৩০.০০ | প্লাস্টিকের তৈরি শাটার, ব্লাইন্ড এবং উহাদের পার্টস | ২০ [20]
+৩৯.২৫ | ৩৯২৫.৯০.০০ | প্লাস্টিকের তৈরি অন্যান্য বিল্ডার্স ওয়্যার | ২০ [20]
+৩৯.২৬ | ৩৯২৬.১০.০০ | প্লাস্টিকের তৈরি অফিস এবং স্কুল সামগ্রী | ২০ [20]
+
+
+================================================================================
+
+পৃষ্ঠা/Page 24
+--------------------------------------------------
+3Heading(BN) | HS Code | Description | SD% (BN) [SD% numeric]
+৩৯.২৬ | ৩৯২৬.৪০.০০ | Statuettes and other ornamental articles | ২০ [20]
+৩৯.২৬ | ৩৯২৬.৯০.৯৯ | প্লাস্টিকের তৈরি অন্যান্য দ্রব্যাদি | ৩০ [30]
+৪০.১১ | ৪০১১.১০.০০ | মোটর গাড়ির টায়ার | ২০ [20]
+৪০.১৬ | ৪০১৬.৯১.০০ | Floor coverings and mats | ২০ [20]
+৪২.০২ | সকল এইচ,এস,কোড | Trunks, suit-case, vanity-cases, executive-cases, brief-cases, school satchels, spectacle cases, binocular cases, camera cases, musical instrument cases, guncases, holsters and similar containers; travelling-bags, insulated food or beverages bags, toilet bags, rucksacks, handbags, shopping bags, wallets, purses, map-cases, cigarette-cases, tobacco pouches, tool bags, sports bags, bottle-cases, jewellery boxes, powder-boxes, cutlery cases and similar containers, of leather or of composition leather, of sheeting of plastics, of textile materials, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper. | ২০ [20]
+৪২.০৩ | ৪২০৩.৩০.০০ | Belts and bandoliers | ২০ [20]
+৪২.০৩ | ৪২০৩.৪০.০০ | Other clothing accessories | ২০ [20]
+৪৪.১০ হতে ৪৪.১২ | সকল এইচ,এস,কোড (৪৪১১.১২.০০, ৪৪১১.১৩.০০ ও ৪৪১১.১৪.০০ ব্যতীত) | সকল প্রকার পার্টিকেল বোর্ড, ওরিয়েন্টেড স্ট্রান্ড বোর্ড ও সমজাতীয় বোর্ড, ফাইবার বোর্ড, হার্ড বোর্ড, প্লাইউড, ভিনিয়ার্ড প্যানেলস্ ও সমজাতীয় লেমিনেটেড পণ্য | ১০ [10]
+৪৪.১০ | ৪৪১০.১১.০০ | Particle board | ২০ [20]
+৪৪.১৮ | সকল এইচ,এস,কোড | দরজা, জানালা, উহাদের ফ্রেম ও থ্রেশহোল্ড, পারকিট প্যানেল, শাটারিং, শিংগেল ও শেক এবং সমজাতীয় পণ্য | ১০ [10]
+================================================================================
+
+পৃষ্ঠা/Page 25
+--------------------------------------------------
+<table><thead><tr><th>শিরনামা<br>সংখ্যা<br>(Heading)</th><th>সামঞ্জস্যপূর্ণ<br>নামকরণ কোড<br>(H.S. Code)</th><th>পণ্যসমূহের বিবরণ<br>(Description of Goods)</th><th>সম্পূরক<br>শুল্কহার<br>(%)</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>৪৪.২০</td><td>৪৪২০.১১.০০<br>৪৪২০.১৯.০০</td><td>Wooden Beads</td><td>২০</td></tr><tr><td>৪৮.০২</td><td>৪৮০২.৫৪.১০<br>৪৮০২.৫৪.৯০</td><td>Other paper and paperboard, not containing<br>fibres obtained by a mechanical or chemi-<br>mechanical process or of which not more<br>than 10% by weight of the total fibre content<br>consists of such fibres of weighing less than<br>40 g/m² (Excl. imported by VAT registered<br>manufacturing industries)</td><td>১০</td></tr><tr><td>৪৮.১৩</td><td>৪৮১৩.১০.০০<br>৪৮১৩.২০.০০<br>৪৮১৩.৯০.০০</td><td>আমদানিকৃত সিগারেট পেপার, সাইজ মত কর্তিত<br>হউক বা না হউক অথবা বুকলেট বা টিউবের<br>আকারে</td><td>৩০০</td></tr><tr><td>৪৮.১৮</td><td>সকল<br>এইচ,এস,কোড</td><td>টয়লেট পেপার, টিস্যু পেপার, টাওয়েল বা ন্যাপকিন<br>পেপার বা সমজাতীয় পণ্য, গৃহস্থালী, সেনিটারী বা<br>অনুরূপ কাজে ব্যবহৃত</td><td>২০</td></tr><tr><td rowspan="3">৪৮.১৯</td><td>৪৮১৯.১০.০০</td><td>Cartons, boxes and cases, of corrugated<br>paper and paperboard</td><td>১০</td></tr><tr><td>৪৮১৯.২০.৯০</td><td>ম্যাচ কাঠি প্যাকিংয়ের জন্য ডুপেক্স আউটার শেল<br>ব্যতীত নন-করোগেটেড পেপার ও পেপার বোর্ডের<br>তৈরি ফোল্ডিং কার্টুন, বাক্স ও কেস</td><td>১০</td></tr><tr><td>৪৮১৯.৩০.০০</td><td>স্যাকস্ এবং ব্যাগস্ (৪০ সে. মি ও তদুর্ধ্ব প্রস্থ বেজ<br>বিশিষ্ট)</td><td>১০</td></tr><tr><td>৪৮.২১</td><td>৪৮২১.১০.০০</td><td>প্রিন্টেড লেভেলস</td><td>২০</td></tr><tr><td rowspan="2">৪৮.২৩</td><td>৪৮২৩.৬৯.৯০</td><td>Paper Cup, Plate, Bowl</td><td>২০</td></tr><tr><td>৪৮২৩.৯০.৯৩<br>৪৮২৩.৯০.৯৪</td><td>Surface coloured or printed paper or paper<br>board</td><td>২০</td></tr><tr><td>৪৯.০১</td><td>৪৯০১.১০.০০</td><td>Printed Books, Brochures, leaflets, similar<br>printed matter in single sheets, wheather<br>or not folded</td><td>১০</td></tr><tr><td>৪৯.০৯</td><td>৪৯০৯.০০.০০</td><td>Printed or illustrated postcards; printed<br>cards bearing personal greetings,<br>messages or announcements, wheather or<br>not illustrated, with or without envelopes<br>or trimmings</td><td>২০</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 26
+--------------------------------------------------
+**Table:**
+
+<table><thead><tr><th>শিরনামা<br>সংখ্যা<br>(Heading)</th><th>সামঞ্জস্যপূর্ণ<br>নামকরণ কোড<br>(H.S. Code)</th><th>পণ্যসমূহের বিবরণ<br>(Description of Goods)</th><th>সম্পূরক<br>শুল্কহার<br>(%)</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>৪৯.১০</td><td>৪৯১০.০০.০০</td><td>Calenders of any kind, printed, including<br>calender blocks</td><td>২০</td></tr><tr><td>৪৯.১১</td><td>সকল<br>এইচ,এস,কোড</td><td>ছাপানো ছবি, ফটোগ্রাফসসহ অন্যান্য ছাপানো পণ্য<br>সামগ্রী</td><td>২০</td></tr><tr><td>৫০.০৭</td><td>সকল<br>এইচ,এস,কোড</td><td>Woven fabrics of silk or of silk waste.</td><td>৪০</td></tr><tr><td>৫২.০৮ হইতে<br>৫২.১২</td><td>সকল<br>এইচ,এস,কোড</td><td>ওভেন ফেব্রিক্স</td><td>১০</td></tr><tr><td>৫৪.০৭ এবং<br>৫৪.০৮</td><td>সকল<br>এইচ,এস,কোড<br>(৫৪০৭.১০.১০<br>ব্যতীত)</td><td>ওভেন ফেব্রিক্স</td><td>১০</td></tr><tr><td>৫৫.১২ হইতে<br>৫৫.১৬</td><td>সকল<br>এইচ,এস,কোড<br>(৫৫১২.১৯.১০<br>ব্যতীত)</td><td>ওভেন ফেব্রিক্স</td><td>১০</td></tr><tr><td>৫৬.০৫</td><td>৫৬০৫.০০.১০</td><td>Metalized round yarn</td><td>২০</td></tr><tr><td>৫৭.০১ হইতে<br>৫৭.০৫</td><td>সকল<br>এইচ,এস,কোড</td><td>কার্পেট ও অন্যান্য টেক্সটাইল ফ্লোর আচ্ছাদন</td><td>২০</td></tr><tr><td>৫৮.০১</td><td>সকল<br>এইচ,এস,কোড</td><td>Woven pile fabrics and chenille fabrics,<br>other than fabrics of heading 58.02 or<br>58.06.</td><td>১০</td></tr><tr><td>৫৮.০৪</td><td>সকল<br>এইচ,এস,কোড</td><td>Tulles and other net fabrics, not including<br>woven, knitted or crocheted fabrics; lace<br>in the piece, in strips or in motifs, other<br>than fabrics of headings 60.02 to 60.06.</td><td>১০</td></tr><tr><td rowspan="3">৫৯.০৩</td><td>৫৯০৩.১০.৯০</td><td>Other textile fabrics, impregnated, coated,<br>covered or laminated with polyvinyl<br>chloride</td><td>১০</td></tr><tr><td>৫৯০৩.২০.৯০</td><td>Other textile fabrics, impregnated, coated,<br>covered or laminated with polyurethane</td><td>২০</td></tr><tr><td>৫৯০৩.৯০.৯০</td><td>Other textile fabrics with polyurethane</td><td>২০</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 27
+--------------------------------------------------
+**Table:**
+
+<table><thead><tr><th>শিরনামা<br>সংখ্যা<br>(Heading)</th><th>সামঞ্জস্যপূর্ণ<br>নামকরণ কোড<br>(H.S. Code)</th><th>পণ্যসমূহের বিবরণ<br>(Description of Goods)</th><th>সম্পূরক<br>শুল্কহার<br>(%)</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>৬০.০১</td><td>সকল<br>এইচ,এস,কোড</td><td>Pile fabrics, including "long pile" fabrics and terry fabrics, knitted or crocheted.</td><td>১০</td></tr><tr><td>৬০.০২</td><td>সকল<br>এইচ,এস,কোড</td><td>Knitted or crocheted fabrics of a width not exceeding 30 cm, containing by weight 5% or more of elastomeric yarn or rubber thread, other than those of heading 60.01.</td><td>১০</td></tr><tr><td>৬০.০৩</td><td>সকল<br>এইচ,এস,কোড</td><td>Knitted or crocheted fabrics of a width not exceeding 30 cm, other than those of heading 60.01 or 60.02</td><td>১০</td></tr><tr><td>৬০.০৪</td><td>সকল<br>এইচ,এস,কোড</td><td>Knitted or crocheted fabrics of a width exceeding 30 cm, containing by weight 5% or more of elastomeric yarn or rubber thread, other those of heading 60.01</td><td>১০</td></tr><tr><td>৬০.০৫</td><td>সকল<br>এইচ,এস,কোড</td><td>Warp knit fabrics (including those made on galloon knitting machines), other than of headings 60.01 to 60.04</td><td>১০</td></tr><tr><td>৬০.০৬</td><td>সকল<br>এইচ,এস,কোড</td><td>Other knitted or crocheted fabrics</td><td>১০</td></tr><tr><td>৬১.০১ এবং<br>৬১.০২</td><td>সকল<br>এইচ,এস,কোড</td><td>ওভারকোট, কার-কোট, কেইপ, ক্লোক, অ্যানোর্যাক (স্কি-জ্যাকেটসহ), উইন্ডচিটার, উইন্ড-জ্যাকেট এবং সমজাতীয় পণ্য, নিটেড বা ক্রশেটেড</td><td>৩০</td></tr><tr><td>৬১.০৩</td><td>সকল<br>এইচ,এস,কোড<br>(৬১০৩.২৯.০০ ব্যতীত)</td><td>ছেলেদের স্যুট, ইনসিম্বল, জ্যাকেট, ব্লেজার, ট্রাউজার, বিব ও ব্রেস ওভারঅল, ব্রিচ ও শর্টস (সাঁতারের পোষাক ছাড়া), নিটেড বা ক্রশেটেড</td><td>৩০</td></tr><tr><td></td><td>৬১০৩.২৯.০০</td><td>Men's or boy's ensembles of other textile materials</td><td>৪০</td></tr><tr><td>৬১.০৪</td><td>সকল<br>এইচ,এস,কোড</td><td>মেয়েদের স্যুট, ইনসিম্বল, জ্যাকেট, ব্লেজার, ড্রেস, স্কার্ট, ডিভাইডেড স্কার্ট, ট্রাউজার, বিব ও ব্রেস ওভারঅল, ব্রিচ ও শর্টস (সাঁতারের পোষাক ছাড়া), নিটেড বা ক্রশেটেড</td><td>৩০</td></tr><tr><td>৬১.০৫</td><td>সকল<br>এইচ,এস,কোড<br>(৬১০৫.৯০.০০ ব্যতীত)</td><td>ছেলেদের শার্ট, নিটেড বা ক্রশেটেড</td><td>৩০</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 28
+--------------------------------------------------
+**Table:**
+
+<table><thead><tr><th>শিরনামা<br>সংখ্যা<br>(Heading)</th><th>সামঞ্জস্যপূর্ণ<br>নামকরণ কোড<br>(H.S. Code)</th><th>পণ্যসমূহের বিবরণ<br>(Description of Goods)</th><th>সম্পূরক<br>শুল্কহার<br>(%)</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td></td><td>৬১০৫.৯০.০০</td><td>Men's or boy's shirts, knitted or crocheted<br>of other textile materials</td><td>৪০</td></tr><tr><td>৬১.০৬</td><td>সকল<br>এইচ,এস,কোড</td><td>মেয়েদের ব্লাউজ, শার্ট এবং শার্ট-ব্লাউজ, নিটেড বা<br>ক্রশেটেড</td><td>৩০</td></tr><tr><td rowspan="2">৬১.০৭</td><td>সকল<br>এইচ,এস,কোড<br>(৬১০৭.১৯.০০<br>ব্যতীত)</td><td>ছেলেদের আন্ডারপ্যান্ট, ব্রিফ, নাইটশার্ট, পায়জামা,<br>বাথরোব, ড্রেসিং গাউন এবং সমজাতীয় পণ্য, নিটেড<br>বা ক্রশেটেড</td><td>৩০</td></tr><tr><td>৬১০৭.১৯.০০</td><td>Men's or boy's underpants, briefs of other<br>textile materials</td><td>৪০</td></tr><tr><td>৬১.০৮</td><td>সকল<br>এইচ,এস,কোড</td><td>মেয়েদের স্লিপ, পেটিকোট, ব্রিফ, প্যান্টি, নাইটড্রেস,<br>পায়জামা, নেগলেজি, বাথরোব, ড্রেসিং গাউন এবং<br>সমজাতীয় পণ্য, নিটেড বা ক্রশেটেড</td><td>৩০</td></tr><tr><td>৬১.০৯</td><td>সকল<br>এইচ,এস,কোড</td><td>টি-শার্ট, সিংলেট এবং অন্যান্য ভেস্ট, নিটেড বা<br>ক্রশেটেড</td><td>৩০</td></tr><tr><td rowspan="2">৬১.১০</td><td>সকল<br>এইচ,এস,কোড<br>(৬১১০.৯০.০০<br>ব্যতীত)</td><td>জার্সি, পুলওভার, কার্ডিগান, ওয়েস্টকোট এবং<br>সমজাতীয় পণ্য, নিটেড বা ক্রশেটেড, কাশ্মিরী ছাগল<br>বা অন্য প্রাণীর সরু লোম দ্বারা তৈরি সামগ্রী</td><td>৩০</td></tr><tr><td>৬১১০.৯০.০০</td><td>Jerseys, pullovers, cardigans, waistcoats<br>and similar articles, knitted or crocheted<br>of other textile materials</td><td>৪০</td></tr><tr><td>৬১.১১</td><td>সকল<br>এইচ,এস,কোড</td><td>শিশুদের গার্মেন্টস ও ক্লোদিং এক্সেসরিজ, নিটেড বা<br>ক্রশেটেড</td><td>৩০</td></tr><tr><td>৬১.১৩</td><td>৬১১৩.০০.০০</td><td>নিটেড বা ক্রশেটেড ফেব্রিক্সের (৫৯.০৩, ৫৯.০৬ বা<br>৫৯.০৭ হেডিং এর) তৈরি গার্মেন্টস</td><td>৩০</td></tr><tr><td>৬১.১৪</td><td>সকল<br>এইচ,এস,কোড</td><td>অন্যান্য গার্মেন্টস, নিটেড বা ক্রশেটেড</td><td>৩০</td></tr><tr><td>৬১.১৫</td><td>সকল<br>এইচ,এস,কোড<br>(৬১১৫.৯৯.০০<br>ব্যতীত)</td><td>প্যান্টি হোস, টাইটস, স্টকিংস, সকস এবং অন্যান্য<br>হোসিয়ারী (ভেরিকোজ শিরার জন্য স্টকিংস এবং<br>সোলবিহীন জুতাসহ), নিটেড বা ক্রশেটেড</td><td>৩০</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 29
+--------------------------------------------------
+<table border="1"><thead><tr><th>শিরনামা<br>সংখ্যা<br>(Heading)</th><th>সামঞ্জস্যপূর্ণ<br>নামকরণ কোড<br>(H.S. Code)</th><th>পণ্যসমূহের বিবরণ<br>(Description of Goods)</th><th>সম্পূরক<br>শুল্কহার<br>(%)</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>৬১.১৫</td><td>৬১১৫.৯৯.০০</td><td>stockings, socks and other hosiery Of<br>other textile materials</td><td>৪০</td></tr><tr><td>৬১.১৬</td><td>সকল<br>এইচ,এস,কোড</td><td>গ্লাভস, মিটেনস এবং মিটস, নিটেড বা ক্রশেটেড</td><td>৩০</td></tr><tr><td>৬১.১৭</td><td>সকল<br>এইচ,এস,কোড</td><td>অন্যান্য নিটেড বা ক্রশেটেড ক্লোদিং এক্সেসরিজ;<br>গার্মেন্টস বা ক্লোদিং এক্সেসরিজের অংশ</td><td>৩০</td></tr><tr><td>৬২.০১ থেকে<br>৬২.১০ পর্যন্ত</td><td>সকল<br>এইচ,এস,কোড<br>(৬২০৩.৩৯.০০,<br>৬২০৩.৪৩.০০,<br>৬২০৩.৪৯.০০,<br>৬২০৪.২১.০০,<br>৬২০৪.২২.০০,<br>৬২০৪.২৩.০০,<br>৬২০৪.২৯.০০,<br>৬২০৪.৪১.০০,<br>৬২০৪.৪২.০০,<br>৬২০৪.৪৩.০০,<br>৬২০৪.৪৪.০০,<br>৬২০৪.৪৯.০০,<br>৬২০৮,৯৯,০০,<br>৬২০৯.৯০.০০<br>ব্যতীত)</td><td>পুরুষ, মহিলা ও শিশুদের সকল ধরনের তৈরি<br>পোষাক, অন্তর্বাস ও সমজাতীয় পণ্য (সাঁতারের<br>পোষাক ছাড়া)</td><td>৩০</td></tr><tr><td rowspan="3">৬২.০৩</td><td>৬২০৩.৩৯.০০</td><td>Men's or boy's Jackets and blazers of<br>other textile materials</td><td>৪০</td></tr><tr><td>৬২০৩.৪৩.০০</td><td>Men's or boy's Trousers, bib and brace<br>overalls, breeches and shorts of synthetic<br>fibres</td><td>৪০</td></tr><tr><td>৬২০৩.৪৯.০০</td><td>Men's or boy's Trousers, bib and brace<br>overalls, breeches and shorts of other<br>textile materials</td><td>৪০</td></tr><tr><td>৬২.০৪</td><td>৬২০৪.২১.০০<br>৬২০৪.২২.০০<br>৬২০৪.২৩.০০<br>৬২০৪.২৯.০০</td><td>Women's or girls' ensembles</td><td>৪০</td></tr></tbody></table>
+
+
+================================================================================
+
+পৃষ্ঠা/Page 30
+--------------------------------------------------
+**Table:**
+
+<table border="1"><thead><tr><th>শিরনামা<br>সংখ্যা<br>(Heading)</th><th>সামঞ্জস্যপূর্ণ<br>নামকরণ কোড<br>(H.S. Code)</th><th>পণ্যসমূহের বিবরণ<br>(Description of Goods)</th><th>সম্পূরক<br>শুল্কহার<br>(%)</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>৬২.০৪</td><td>৬২০৪.৪১.০০<br>৬২০৪.৪২.০০<br>৬২০৪.৪৩.০০<br>৬২০৪.৪৪.০০<br>৬২০৪.৪৯.০০</td><td>Women's or girls' dresses</td><td>৪০</td></tr><tr><td>৬২.০৮</td><td>৬২০৮.৯৯.০০</td><td>Women's or girl's singlets and other vests, briefs, panties, negliges, bathrobes, dressing gowns and similar articles of other textile materials</td><td>৪০</td></tr><tr><td>৬২.০৯</td><td>৬২০৯.৯০.০০</td><td>Babie's garments and clothing accessories of other textile materials</td><td>৪০</td></tr><tr><td>৬২.১২ থেকে<br>৬২.১৭ পর্যন্ত</td><td>সকল<br>এইচ,এস,কোড<br>(৬২১২.১০.০০,<br>৬২১৪.৩০.০০,<br>৬২১৪.৯০.০০<br>ব্যতীত)</td><td>ব্রেসিয়ার, গার্ডল, করসেট, ব্রেস, সাসপেন্ডার, গার্টার, রুমাল, শাল, স্কার্ফ, মাফলার, ম্যান্টিলা, ভেইল, টাই, বো-টাই, ক্র্যাভেট, গ্লাভস, মিটেন্স, মিটস এবং সমজাতীয় ক্লোদিং এক্সেসরিজ ও তার অংশ</td><td>৩০</td></tr><tr><td>৬২.১২</td><td>৬২১২.১০.০০</td><td>Brassieres</td><td>৪০</td></tr><tr><td rowspan="2">৬২.১৪</td><td>৬২১৪.৩০.০০</td><td>Shawls, scarves, mufflers, mantillas, veils and the like: Of synthetic fibres</td><td>৪০</td></tr><tr><td>৬২১৪.৯০.০০</td><td>Shawls, scarves, mufflers, mantillas, veils and the like: Of other textile materials</td><td>৪০</td></tr><tr><td>৬৩.০১</td><td>সকল<br>এইচ,এস,কোড</td><td>সকল প্রকার পশমী কম্বল</td><td>২০</td></tr><tr><td>৬৩.০২</td><td>সকল<br>এইচ,এস,কোড</td><td>বেড লিনেন, টেবিল লিনেন, টয়লেট লিনেন এবং কিচেন লিনেন</td><td>২০</td></tr><tr><td>৬৩.০৩</td><td>সকল<br>এইচ,এস,কোড</td><td>পর্দা (ড্রেপসহ) এবং ইন্টেরিয়র ব্লাইন্ড; পর্দা বা বেড ভ্যালান্স</td><td>২০</td></tr><tr><td>৬৩.০৪</td><td>সকল<br>এইচ,এস,কোড</td><td>অন্যান্য আসবাব (৯৪.০৪ হেডিং এর পণ্য ব্যতীত)</td><td>২০</td></tr><tr><td>৬৪.০২</td><td>সকল<br>এইচ,এস,কোড</td><td>Other footwear with outer soles and uppers of rubber or plastics.</td><td>৪০</td></tr></tbody></table>

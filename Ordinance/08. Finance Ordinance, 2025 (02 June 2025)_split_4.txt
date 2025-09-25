@@ -1,0 +1,113 @@
+পৃষ্ঠা/Page 31
+--------------------------------------------------
+**Table:**
+
+<table><thead><tr><th>শিরনামা<br>সংখ্যা<br>(Heading)</th><th>সামঞ্জস্যপূর্ণ<br>নামকরণ কোড<br>(H.S. Code)</th><th>পণ্যসমূহের বিবরণ<br>(Description of Goods)</th><th>সম্পূরক<br>শুল্কহার<br>(%)</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>৬৪.০৩</td><td>সকল<br>এইচ,এস,কোড</td><td>Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of leather.</td><td>৪০</td></tr><tr><td>৬৪.০৪</td><td>সকল<br>এইচ,এস,কোড</td><td>Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of textile materials.</td><td>৪০</td></tr><tr><td>৬৪.০৫</td><td>সকল<br>এইচ,এস,কোড</td><td>Other footwear.</td><td>৪০</td></tr><tr><td>৬৪.০৬</td><td>৬৪০৬.১০.১০<br>৬৪০৬.১০.৯০<br>৬৪০৬.২০.১০<br>৬৪০৬.২০.৯০</td><td>Upper and outer soles and heels</td><td>১০</td></tr><tr><td>৬৭.০২</td><td>সকল<br>এইচ,এস,কোড</td><td>Artificial flowers, foliage and fruit and parts thereof; articles made of artificial flowers, foliage or fruit</td><td>২০</td></tr><tr><td>৬৮.০২</td><td>সকল<br>এইচ,এস,কোড</td><td>Granite, marble, travertine and alabaster and other stone</td><td>৬০</td></tr><tr><td>৬৮.০৩</td><td>৬৮০৩.০০.০০</td><td>Worked slate and articles of slate or of agglomerated slate</td><td>৬০</td></tr><tr><td>৬৮.০৮</td><td>৬৮০৮.০০.০০</td><td>Panels, boards, tiles, blocks and similar articles or vegetable fibre, of straw or of shavings, chips, particles, sawdust or other waste, of wood, agglomerated with cement, plaster or other mineral binders.</td><td>২০</td></tr><tr><td>৬৮.০৯</td><td>সকল<br>এইচ,এস,কোড</td><td>Plaster Boards and sheets</td><td>২০</td></tr><tr><td>৬৯.০৪</td><td>সকল<br>এইচ,এস,কোড</td><td>Ceramic building bricks, flooring blocks, support or filler tiles and the like.</td><td>১০</td></tr><tr><td>৬৯.০৫</td><td>সকল<br>এইচ,এস,কোড</td><td>Roofing tiles, chimney-pots, cowls, chimney liners, architectural ornaments and other ceramic constructional goods.</td><td>১০</td></tr><tr><td>৬৯.০৬</td><td>৬৯০৬.০০.০০</td><td>Ceramic pipes, conduits, guttering and pipe fittings.</td><td>১০</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 32
+--------------------------------------------------
+Heading(BN) | HS Code | Description | SD% (BN) [SD% numeric]
+৬৯.০৭ | সকল এইচ,এস,কোড | অনুজ্জ্বল সিরামিক প্রস্তর ফলক এবং উন্নয়নের প্রস্তর অথবা দেয়ালের টাইলস; অনুজ্জ্বল সিরামিক মোজাইক কিউব এবং সমজাতীয় পণ্য, কোনো কিছুর উপর স্থাপিত হউক বা না হউক | ৬০ [60]
+৬৯.১০ | সকল এইচ,এস,কোড | সিরামিকের সিঙ্ক, ওয়াশ বেসিন, ওয়াশ বেসিন প্যাডেস্টাল, বাথটাব, বিডে, ওয়াটার ক্লোজেট প্যান, ফ্লাশিং সিষ্টার্ণ, ইউরিনাল ও সমজাতীয় সেনিটারী ফিক্সার্স | ৬০ [60]
+৬৯.১১ | সকল এইচ,এস,কোড | চিনামাটি বা পোরসিলিনের তৈরি টেবিল ওয়্যার, কিচেন ওয়্যার ও অন্যান্য গৃহস্থালী এবং টয়লেট সামগ্রী | ৬০ [60]
+৬৯.১২ | ৬৯১২.০০.০০ | সিরামিকের তৈরি টেবিল ওয়্যার, কিচেন ওয়্যার ও অন্যান্য গৃহস্থালী সামগ্রী | ৬০ [60]
+৬৯.১৩ | সকল এইচ,এস,কোড | Statuettes and other ornamental ceramic articles. | ৬০ [60]
+৬৯.১৪ | সকল এইচ,এস,কোড | অন্যান্য সিরামিক সামগ্রী | ৬০ [60]
+৭০.০২ | ৭০০২.৩৯.৯০ | গ্লাস টিউব | ২০ [20]
+৭০.০৩ | ৭০০৩.১২.০০ | সম্পূর্ণভাবে রংকৃত নন ওয়্যারড শীট আকারে কাস্ট অথবা রোল গ্লাস (অস্বচ্ছ, ফ্লাশড/ এ্যা্বজরবেন্টসহ, রিফ্লেক্টিং হউক বা না হউক) | ২০ [20]
+৭০.০৩ | ৭০০৩.১৯.০০ | অন্যান্য কাস্ট অথবা রোল গ্লাস নন-ওয়্যার্ড শীট | ২০ [20]
+৭০.০৩ | ৭০০৩.২০.০০ | কাষ্ট অথবা রোল গ্লাস ওয়্যার্ড শীট | ২০ [20]
+৭০.০৩ | ৭০০৩.৩০.০০ | কাষ্ট অথবা রোল গ্লাস প্রোফাইলস | ২০ [20]
+৭০.০৪ | সকল এইচ,এস,কোড | ড্রন গ্লাস এবং বোন গ্লাস শীট, এ্যাবজরবেন্ট থাকুক বা না থাকুক, রিফ্লেক্টিং হউক বা না হউক | ২০ [20]
+৭০.০৫ | সকল এইচ,এস,কোড | শীট আকারে ফ্লোট গ্লাস এবং সারফেস গ্রাউন্ড বা পলিশড গ্লাস, শোষকযুক্ত, প্রতিফলন বা প্রতিফলনহীন স্তরবিশিষ্ট হউক বা না হউক, অন্য কোনো কাজ করা নয় | ৪৫ [45]
+
+
+================================================================================
+
+পৃষ্ঠা/Page 33
+--------------------------------------------------
+**Table:**
+
+<table border="1"><thead><tr><th>শিরনামা<br>সংখ্যা<br>(Heading)</th><th>সামঞ্জস্যপূর্ণ<br>নামকরণ কোড<br>(H.S. Code)</th><th>পণ্যসমূহের বিবরণ<br>(Description of Goods)</th><th>সম্পূরক<br>শুল্কহার<br>(%)</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>৭০.০৬</td><td>৭০০৬.০০.০০</td><td>Edge-worked glass</td><td>২০</td></tr><tr><td rowspan="2">৭০.০৭</td><td>৭০০৭.১৯.৯০</td><td>Other tampered safety glass</td><td>২০</td></tr><tr><td>৭০০৭.২৯.০০</td><td>Other laminated safety glass</td><td>২০</td></tr><tr><td rowspan="2">৭০.০৯</td><td>৭০০৯.৯১.৯০</td><td>ফ্রেমবিহীন অন্যান্য কাঁচের আয়না</td><td>২০</td></tr><tr><td>৭০০৯.৯২.৯০</td><td>ফ্রেমযুক্ত অন্যান্য কাঁচের আয়না</td><td>২০</td></tr><tr><td>৭০.১০</td><td>৭০১০.৯০.০০</td><td>Carboys, bottles, flastks, jars, pots, phials and other containers, of glass, of a kind used for the conveyance or packing of goods; preserving jars of glass</td><td>২০</td></tr><tr><td>৭০.১৩</td><td>সকল<br>এইচ,এস,কোড</td><td>টেবিল, রান্নাঘর, টয়লেট, অফিস, ইনডোর ডেকোরেশন অথবা একইরূপ উদ্দেশ্যে ব্যবহারের উপযোগী কাঁচের তৈজসপত্র (৭০.১০ ও ৭০.১৮ হেডিং এর পণ্য ব্যতীত)</td><td>৪৫</td></tr><tr><td>৭০.১৬</td><td>সকল<br>এইচ,এস,কোড</td><td>Paving blocks, slabs, bricks, squares, tiles and other articles of pressed or moulded glass, whether or not wired, of a kind used for building or construction purposes; glass cubes and other glass smallwares, whether or not on a backing, for mosaics or similar decorative purposes; leaded lights and the like; multi-cellular or foam glass in blocks, panels, plates, shells or similar forms.</td><td>২০</td></tr><tr><td>৭০.১৮</td><td>৭০১৮.১০.০০</td><td>Glass beads, imitation pearls, imitation precious or semi-precious stones and similar glass small wares</td><td>২০</td></tr><tr><td rowspan="2">৭১.০২</td><td>৭১০২.১০.০০<br>৭১০২.৩১.০০</td><td>অমসৃণ হীরা</td><td>২০</td></tr><tr><td>৭১০২.৩৯.০০</td><td>মসৃণ হীরা</td><td>৬০</td></tr><tr><td>৭১.১৭</td><td>সকল<br>এইচ,এস,কোড</td><td>ইমিটেশন জুয়েলারী</td><td>২০</td></tr><tr><td>৭২.১৩</td><td>সকল<br>এইচ,এস,কোড<br>(৭২১৩.৯৯.১০<br>ব্যতীত)</td><td>Bars and rods, hot-rolled, in irregularly wound coils, of iron or non-alloy steel.</td><td>৪৫</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 34
+--------------------------------------------------
+Heading(BN) | HS Code | Description | SD% (BN) [SD% numeric]
+৭২.১৪ | সকল এইচ.এস. কোড | Other bars and rods of iron or non-alloy steel, not further worked than forged, hot-rolled, hot-drawn or hot-extruded, but including those twisted after rolling. (শুধুমাত্র এলপিজি সিলিন্ডারের ভাল্ব ও বাঙ্গ উৎপাদনকারী প্রতিষ্ঠানের কাঁচামাল হিসাবে এইচএস কোড ৭২১৪.৯৯.০০ এর অধীন Carbon steel S20c/SAE 1020 (42mmRD) আমদানির ক্ষেত্র ব্যতীত) | ৪৫ [45]
+৭২.১৫ | সকল এইচ.এস. কোড | Other bars and rods of iron or non-alloy steel. Of free-cutting steel, not further worked than cold-formed or cold-finished | ৪৫ [45]
+৭২.১৬ | সকল এইচ.এস. কোড | Angles, shapes and sections of iron or non-alloy steel. | ২০ [20]
+৭৩.০৩ | ৭৩০৩.০০.০০ | কাস্ট আয়রনের তৈরি টিউব পাইপস | ২০ [20]
+৭৩.০৪ | ৭৩০৪.১১.২০, ৭৩০৪.১৯.২০ | অয়েল অথবা গ্যাস পাইপ লাইনে ব্যবহৃত লাইন পাইপঃ ভিতরের ব্যাস ৮ ইঞ্চি অথবা তার নিম্নে | ২০ [20]
+৭৩.০৪ | ৭৩০৪.৯০.০০ | আয়রন অথবা স্টীলের তৈরি অন্যান্য টিউব, পাইপ এবং ফাঁপা প্রোফাইল, সিমলেস (Seamless) | ২০ [20]
+৭৩.০৬ | ৭৩০৬.১১.২০, ৭৩০৬.১৯.২০ | অয়েল অথবা গ্যাস পাইপ লাইনে ব্যবহৃত লাইন পাইপড (ভিতরের ব্যাস ৮ ইঞ্চি অথবা তার নিম্নে) | ২০ [20]
+৭৩.০৬ | ৭৩০৬.২১.২০, ৭৩০৬.২৯.২০ | অয়েল এবং গ্যাস ড্রিলিং এর কাজে ব্যবহৃত কেসিং এবং টিউবিং (ভিতরের ব্যাস ৮ ইঞ্চি অথবা তার নিম্নে) | ২০ [20]
+৭৩.০৬ | ৭৩০৬.৩০.০০ | Other, welded, of circular cross-section of iron or non-alloy steel | ২০ [20]
+৭৩.০৬ | ৭৩০৬.৪০.০০ | Other, welded, of circular cross-section, of stainless steel | ২০ [20]
+৭৩.০৬ | ৭৩০৬.৫০.০০ | Other, welded, of circular cross-section, of other alloy steel | ২০ [20]
+৭৩.০৬ | ৭৩০৬.৬১.০০ | Other, welded, of non-circular cross-section of square or rectangular cross-section | ২০ [20]
+
+
+================================================================================
+
+পৃষ্ঠা/Page 35
+--------------------------------------------------
+Heading(BN) | HS Code | Description | SD% (BN) [SD% numeric]
+৭৩.০৬ | ৭৩০৬.৬৯.০০ | Other, welded, of non-circular cross-section of other non-circular cross-section | ২০ [20]
+৭৩.০৬ | ৭৩০৬.৯০.০০ | Other, welded, of non-circular cross-section: Other | ২০ [20]
+৭৩.০৭ | ৭৩০৭.১১.০০, ৭৩০৭.১৯.০০, ৭৩০৭.৯৯.৯০ | GI Fittings | ২০ [20]
+৭৩.১৭ | ৭৩১৭.০০.০০ | Nails, Tacks, Drawing Pins of iron/steel | ২০ [20]
+৭৩.১৮ | ৭৩১৮.১১.০০ | Coach screws | ২০ [20]
+৭৩.১৮ | ৭৩১৮.১২.০০ | Other wood screws | ২০ [20]
+৭৩.১৮ | ৭৩১৮.১৩.০০ | Screw hooks and screw rings | ২০ [20]
+৭৩.১৮ | ৭৩১৮.১৪.০০ | Self-tapping screws | ২০ [20]
+৭৩.১৮ | ৭৩১৮.১৫.১০ | Other screws and bolts flus type tower bolt imported by Industrial IRC holder VAT compliant fire-resistant door manufacturers | ২০ [20]
+৭৩.১৮ | ৭৩১৮.১৫.৯০ | Other Screw | ২০ [20]
+৭৩.১৮ | ৭৩১৮.১৬.০০ | Threaded Nuts of Iron/Steel | ২০ [20]
+৭৩.১৮ | ৭৩১৮.১৯.০০ | Other Screw | ২০ [20]
+৭৩.২০ | ৭৩২০.১০.০০ | Leaf-springs and leaves therefore | ২০ [20]
+৭৩.২১ | ৭৩২১.১১.০০ | গ্যাস জ্বালানীর উপযোগী বা গ্যাস এবং অন্যান্য উভয় জ্বালানীর উপযোগী রান্নার তৈজসপত্র এবং প্লেট গরমকারক | ২০ [20]
+৭৩.২৩ | ৭৩২৩.৯৩.০০, ৭৩২৩.৯৪.০০, ৭৩২৩.৯৯.১০, ৭৩২৩.৯৯.৯০ | Table/kitchenware of stainless steel | ২০ [20]
+৭৩.২৪ | সকল এইচ,এস,কোড | স্টেইনলেস স্টীলের সিঙ্গ, ওয়াস বেসিন উহার যন্ত্রাংশ, ওয়াটার ট্যাপ এবং বাথরুমের অন্যান্য ফিটিংস ও ফিক্সার্স | ২০ [20]
+================================================================================
+
+পৃষ্ঠা/Page 36
+--------------------------------------------------
+**Table:**
+<table border="1"><thead><tr><th>শিরনামা<br>সংখ্যা<br>(Heading)</th><th>সামঞ্জস্যপূর্ণ<br>নামকরণ কোড<br>(H.S. Code)</th><th>পণ্যসমূহের বিবরণ<br>(Description of Goods)</th><th>সম্পূরক<br>শুল্কহার<br>(%)</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>৭৪.১৫</td><td>৭৪১৫.৩৩.১০<br>৭৪১৫.৩৩.৯০</td><td>Screws; bolts and nuts of copper</td><td>২০</td></tr><tr><td>৭৪.১৮</td><td>৭৪১৮.২০.০০</td><td>কপারের তৈরি সেনিটারী ওয়্যার ও উহার যন্ত্রাংশ</td><td>২০</td></tr><tr><td rowspan="3">৭৬.০৭</td><td>৭৬০৭.২০.১০</td><td>পেপার/পেপার বোর্ড দ্বারা ব্যাক্চ (Backed)<br>এ্যাল্যমিনিয়াম ফয়েল, রঞ্জিন হউক বা না হউক,<br>রোল/রিল/ববিন আকারে</td><td>২০</td></tr><tr><td>৭৬০৭.২০.৯২</td><td>Co-polymer coated aluminium tape</td><td>২০</td></tr><tr><td>৭৬০৭.২০.৯৯</td><td>অন্যান্য ব্যাক্চ (Backed) এ্যাল্যমিনিয়াম ফয়েল,<br>রঞ্জিন হউক বা না হউক, রোল/রিল/ববিন আকারে</td><td>২০</td></tr><tr><td>৭৬.১৫</td><td>৭৬১৫.২০.০০</td><td>এ্যাল্যমিনিয়াম স্যানিটারী ওয়্যার ও যন্ত্রাংশ</td><td>২০</td></tr><tr><td>৭৬.১৬</td><td>৭৬১৬.১০.০০</td><td>Nails, tacks, staples (other than those of<br>heading 83.05) screws, bolts, nuts, screw<br>hooks, rivets, cotters, cotter-pins, washers<br>and similar articles of aluminium</td><td>২০</td></tr><tr><td rowspan="4">৮২.১২</td><td>৮২১২.১০.০০</td><td>রেজর</td><td>২০</td></tr><tr><td>৮২১২.২০.১৯</td><td>স্টেইনলেস স্টীল ব্লেড</td><td>২০</td></tr><tr><td>৮২১২.২০.৯০</td><td>অন্যান্য</td><td>২০</td></tr><tr><td>৮২১২.৯০.০০</td><td>রেজর পার্টস</td><td>২০</td></tr><tr><td>৮৩.০১</td><td>সকল<br>এইচ,এস,কোড</td><td>Padlocks and locks (key, combination or<br>electrically operated), of base metal;<br>clasps and frames with clasps,<br>incorporating locks, of base metal; keys<br>for any of the foregoing articles, of base<br>metal.</td><td>২০</td></tr><tr><td>৮৩.০৯</td><td>৮৩০৯.৯০.৯৯</td><td>Other Stoppers</td><td>৪৫</td></tr><tr><td rowspan="2">৮৪.০৭ এবং<br>৮৪.০৮</td><td>৮৪০৭.৩১.১০<br>৮৪০৭.৩২.১০<br>৮৪০৭.৩৩.১০<br>৮৪০৮.২০.১০</td><td>দুই স্ট্রোক বিশিষ্ট অটো রিক্সা/থ্রি হুইলারের ইঞ্জিন</td><td>২০</td></tr><tr><td>৮৪০৭.৩১.২০<br>৮৪০৭.৩২.২০<br>৮৪০৭.৩৩.২০<br>৮৪০৮.২০.২০</td><td>চার স্ট্রোক বিশিষ্ট অটো রিক্সা/থ্রি হুইলারের ইঞ্জিন</td><td>২০</td></tr></tbody></table>
+
+
+================================================================================
+
+পৃষ্ঠা/Page 37
+--------------------------------------------------
+**Table:**
+
+<table><thead><tr><th>শিরনামা<br>সংখ্যা<br>(Heading)</th><th>সামঞ্জস্যপূর্ণ<br>নামকরণ কোড<br>(H.S. Code)</th><th>পণ্যসমূহের বিবরণ<br>(Description of Goods)</th><th>সম্পূরক<br>শুল্কহার<br>(%)</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td rowspan="2">৮৪.১৪</td><td>৮৪১৪.৫১.০০</td><td>১২৫ ওয়াট বা তার নিম্নের মটরযুক্ত টেবিল, ফ্লোর, ওয়াল, সিলিং, উইন্ডো, জানালা ও ছাদের ফ্যান</td><td>৪৫</td></tr><tr><td>৮৪১৪.৯০.১০</td><td>ফ্যান এর যন্ত্রাংশ</td><td>৪৫</td></tr><tr><td rowspan="4">৮৪.১৫</td><td>৮৪১৫.১০.৯০<br>৮৪১৫.২০.৯০<br>৮৪১৫.৮১.৯০<br>৮৪১৫.৮২.৯০<br>৮৪১৫.৮৩.৯০</td><td>মটরচালিত পাখাযুক্ত এবং উষ্ণতা ও আর্দ্রতা পরিবর্তন এর সুবিধা সম্বলিত, আর্দ্রতা পৃথকভাবে নিয়ন্ত্রণ করা যায় না এইরূপ বৈশিষ্ট্য সম্বলিত শীতাতপ নিয়ন্ত্রণকারী যন্ত্র</td><td>৬০</td></tr><tr><td></td><td>যন্ত্রাংশঃ</td><td></td></tr><tr><td>৮৪১৫.৯০.১০</td><td>ইনডোর অথবা আউটডোর ইউনিট</td><td>৬০</td></tr><tr><td>৮৪১৫.৯০.৯০</td><td>অন্যান্য যন্ত্রাংশ</td><td>৬০</td></tr><tr><td>৮৪.১৮</td><td>সকল<br>এইচ,এস,কোড<br>(৮৪১৮.৬১.১০,<br>৮৪১৮.৬৯.১০,<br>৮৪১৮.৬৯.৯৩,<br>৮৪১৮.৬৯.৯৫,<br>৮৪১৮.৬৯,৯৭<br>ব্যতীত)</td><td>রেফ্রিজারেটর, ফ্রিজার এবং সমজাতীয় পণ্য; হিট পাম্প; রেফ্রিজারেটিং ফার্নিচার</td><td>৩০</td></tr><tr><td>৮৪.২১</td><td>৮৪২১.২৩.০০<br>৮৪২১.২৯.৯০</td><td>ফিল্টার</td><td>২০</td></tr><tr><td rowspan="2">৮৫.০৪</td><td>৮৫০৪.৩২.০০</td><td>Other transformer having a power<br>handling capacity exceeding 1 kVA but<br>not exceeding 16 kVA</td><td>২০</td></tr><tr><td>৮৫০৪.৩৩.০০</td><td>Other transformer having a power<br>handling capacity exceeding 16 kVA but<br>not exceeding 500 kVA</td><td>২০</td></tr><tr><td rowspan="2">৮৫.০৬</td><td>৮৫০৬.১০.০০</td><td>ম্যাঙ্গানিজ ডাই অক্সাইড ব্যাটারী</td><td>২০</td></tr><tr><td>৮৫০৬.৩০.০০</td><td>Mercuric oxide battery</td><td>২০</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 38
+--------------------------------------------------
+**Table:**
+
+<table><thead><tr><th>শিরনামা<br>সংখ্যা<br>(Heading)</th><th>সামঞ্জস্যপূর্ণ<br>নামকরণ কোড<br>(H.S. Code)</th><th>পণ্যসমূহের বিবরণ<br>(Description of Goods)</th><th>সম্পূরক<br>শুল্কহার<br>(%)</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td rowspan="4"></td><td>৮৫০৬.৪০.০০</td><td>Silver oxide battery</td><td>২০</td></tr><tr><td>৮৫০৬.৫০.০০</td><td>Lithium battery</td><td>২০</td></tr><tr><td>৮৫০৬.৬০.০০</td><td>Air-zinc battery</td><td>২০</td></tr><tr><td>৮৫০৬.৮০.০০</td><td>Other primary cells and primary batteries</td><td>২০</td></tr><tr><td rowspan="2">৮৫.০৭</td><td>৮৫০৭.১০.০০</td><td>লীড এসিড ব্যাটারী ও ইলেকট্রিক এ্যাকুমুলেটর</td><td>২০</td></tr><tr><td>৮৫০৭.২০.৯০</td><td>Other lead acid accumulators</td><td>২০</td></tr><tr><td>৮৫.০৯</td><td>৮৫০৯.৪০.০০</td><td>Blender, Mixer and Grinder</td><td>২০</td></tr><tr><td rowspan="3">৮৫.১০</td><td>৮৫১০.১০.০০</td><td>Shavers</td><td>২০</td></tr><tr><td>৮৫১০.২০.০০</td><td>Hair clippers</td><td>২০</td></tr><tr><td>৮৫১০.৩০.০০</td><td>Hair-removing appliances</td><td>২০</td></tr><tr><td rowspan="2">৮৫.১৬</td><td>৮৫১৬.৫০.০০</td><td>Microwave ovens</td><td>২০</td></tr><tr><td>৮৫১৬.৬০.০০</td><td>Other ovens; cookers, cooking plates, boiling rigns, grillers and roasters</td><td>২০</td></tr><tr><td rowspan="4">৮৫.১৯</td><td>৮৫১৯.২০.০০</td><td>কয়েন, ব্যাংকনোট, ব্যাংক কার্ড, টোকেন ইত্যাদি দ্বারা চালিত সাউন্ড রেকর্ডিং বা রিপ্রোডিউসিং এপারেটাস, সম্পূর্ণ তৈরি</td><td>২০</td></tr><tr><td>৮৫১৯.৩০.০০</td><td>টার্ন টেবলস (রেকর্ড-ডেক), সম্পূর্ণ তৈরি</td><td>২০</td></tr><tr><td>৮৫১৯.৮১.২০</td><td>অন্যান্য সাউন্ড রেকর্ডিং বা রিপ্রোডিউসিং এপারেটাস (ম্যাগনেটিক, অপটিক্যাল অথবা সেমিকন্ডাক্টর মিডিয়া ব্যবহারকারী), সম্পূর্ণ তৈরি</td><td>২০</td></tr><tr><td>৮৫১৯.৮৯.২০</td><td>অন্যান্য সাউন্ড রেকর্ডিং বা রিপ্রোডিউসিং এপারেটাস, সম্পূর্ণ তৈরি</td><td>২০</td></tr><tr><td>৮৫.২১</td><td>সকল<br>এইচ,এস,কোড</td><td>ভিডিও রেকর্ডিং বা রিপ্রোডিউসিং এর যন্ত্রপাতি, ভিডিও টিউনারযুক্ত হুউক বা না হুউক</td><td>২০</td></tr><tr><td>৮৫.২২</td><td>৮৫২২.৯০.২০</td><td>লোডেড প্রিন্টেড সার্কিট বোর্ড (৮৫.২১ হেডিংভুক্ত পণ্যের জন্য)</td><td>২০</td></tr><tr><td>৮৫.২৩</td><td>৮৫২৩.৫২.০০</td><td>স্মার্ট কার্ডস</td><td>১০</td></tr><tr><td>৮৫.২৭</td><td>৮৫২৭.১২.০০</td><td>পকেট সাইজ রেডিও ক্যাসেট প্লেয়ার, সম্পূর্ণ তৈরি</td><td>২০</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 39
+--------------------------------------------------
+**Table:**
+
+<table border="1"><thead><tr><th>শিরনামা<br>সংখ্যা<br>(Heading)</th><th>সামঞ্জস্যপূর্ণ<br>নামকরণ কোড<br>(H.S. Code)</th><th>পণ্যসমূহের বিবরণ<br>(Description of Goods)</th><th>সম্পূরক<br>শুল্কহার<br>(%)</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td rowspan="2">৮৫.২৭</td><td>৮৫২৭.২১.০০</td><td>সাউন্ড রেকর্ডিং বা উৎপাদনের যন্ত্র সংযোজিত মোটরগাড়ীতে ব্যবহার উপযোগী বাহিরের শক্তি ছাড়া চালনাক্ষম নহে এইরূপ রেডিও সম্প্রচার গ্রাহকযন্ত্র, রেডিও টেলিফোন বা রেডিও টেলিগ্রাফ গ্রহণে সক্ষম যন্ত্রসহঃ সাউন্ড রেকর্ডিং বা সাউন্ড রিপ্রোডিউসিং যন্ত্রপাতিসহ, সম্পূর্ণ তৈরি</td><td>১০</td></tr><tr><td>৮৫২৭.৯১.০০</td><td>সাউন্ড রেকর্ডিং বা উৎপাদনের যন্ত্র সংযোজিত বাহিরের শক্তি ছাড়া চালনাক্ষম এইরূপ অন্যান্য রেডিও সম্প্রচার গ্রাহক যন্ত্র, রেডিও টেলিফোন বা রেডিও টেলিগ্রাফ গ্রহণে সক্ষম যন্ত্রসহঃ সাউন্ড রেকর্ডিং বা সাউন্ড পুনঃ উৎপাদনক্ষম যন্ত্রপাতিসহ</td><td>১০</td></tr><tr><td>৮৫.২৮</td><td>৮৫২৮.৭২.০০</td><td>রঙিন টেলিভিশন</td><td>২০</td></tr><tr><td rowspan="4">৮৫.২৯</td><td>৮৫২৯.৯০.২১</td><td>টিভি কার্ডসহ টেলিভিশন পার্টস্ (টিভি উৎপাদনকারী শিল্প ব্যতীত অন্যান্য আমদানির ক্ষেত্রে)</td><td>২০</td></tr><tr><td>৮৫২৯.৯০.২৯</td><td>লোডেড প্রিন্টেড সার্কিট বোর্ড ৮৫.২৭ এবং ৮৫.২৮ হেডিংভুক্ত পণ্যের জন্য (ভ্যাট রেজিষ্টার্ড টিভি উৎপাদনকারী প্রতিষ্ঠান কর্তৃক আমদানির ক্ষেত্রে)</td><td>৩০</td></tr><tr><td>৮৫২৯.৯০.৩১</td><td>লোডেড প্রিন্টেড সার্কিট বোর্ড ৮৫.২৭ এবং ৮৫.২৮ হেডিংভুক্ত পণ্যের জন্য (অন্যান্য আমদানিকারক কর্তৃক আমদানিকৃত)</td><td>২০</td></tr><tr><td>৮৫২৯.৯০.৩৯</td><td>লোডেড প্রিন্টেড সার্কিট বোর্ড ৮৫.২৭ এবং ৮৫.২৮ হেডিংভুক্ত পণ্যের জন্য (অন্যান্য আমদানিকারক কর্তৃক আমদানিকৃত)</td><td>২০</td></tr><tr><td rowspan="5">৮৫.৩৬</td><td>৮৫৩৬.৫০.০০</td><td>Other switches</td><td>২০</td></tr><tr><td>৮৫৩৬.৬১.০০</td><td>Lamp-holders</td><td>২০</td></tr><tr><td>৮৫৩৬.৬৯.০০</td><td>Plugs and sockets</td><td>২০</td></tr><tr><td>৮৫৩৬.৭০.০০</td><td>Connectors for optical fibres, optical fibre bundles or cables</td><td>১০</td></tr><tr><td>৮৫৩৬.৯০.১০<br>৮৫৩৬.৯০.৯০</td><td>Other apparatus</td><td>১০</td></tr><tr><td rowspan="2">৮৫.৩৯</td><td>৮৫৩৯.২১.৯০</td><td>Tungsten halogen</td><td>১০</td></tr><tr><td>৮৫৩৯.২২.০০<br>৮৫৩৯.২৯.৯০</td><td>আলট্রাভায়োলেট/ইনফ্রা-রেড ল্যাম্প ব্যতীত অন্যান্য ফিলামেন্ট ল্যাম্পঃ অন্যান্য</td><td>২০</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 40
+--------------------------------------------------
+**Table:**
+
+<table border="1"><thead><tr><th>শিরনামা<br>সংখ্যা<br>(Heading)</th><th>সামঞ্জস্যপূর্ণ<br>নামকরণ কোড<br>(H.S. Code)</th><th>পণ্যসমূহের বিবরণ<br>(Description of Goods)</th><th>সম্পূরক<br>শুল্কহার<br>(%)</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td rowspan="2">৮৫.৩৯</td><td>৮৫৩৯.৩১.৯০</td><td>এনার্জি সেভিং ল্যাম্প ব্যতীত অন্যান্য ফ্লুরেসেন্ট, হট ক্যাথোড ল্যাম্প</td><td>৪৫</td></tr><tr><td>৮৫৩৯.৩২.৯০<br>৮৫৩৯.৩৯.৯০</td><td>ইন্ডিকেটর পাইলট ল্যাম্প ও পরীক্ষাগারে ব্যবহৃত ল্যাম্প ব্যতীত অন্যান্য মার্কারী, সোডিয়াম বা মেটাল হ্যালাইড ল্যাম্প</td><td>১০</td></tr><tr><td>৮৫.৪২</td><td>৮৫৪২.৩৯.১০</td><td>সিম কার্ড</td><td>২০</td></tr><tr><td rowspan="2">৮৫.৪৩</td><td>৮৫৪৩.৪০.০০</td><td>Electronic cigarettes and similar personal<br>electric vaporising devices</td><td>১০০</td></tr><tr><td>৮৫৪৩.৯০.১০</td><td>Parts of electronic cigarettes and similar<br>personal electric vaporising devices</td><td>১০০</td></tr><tr><td rowspan="4">৮৫.৪৪</td><td>৮৫৪৪.১৯.৯০</td><td>উইন্ডিং ওয়্যারঃ অন্যান্য</td><td>২০</td></tr><tr><td>৮৫৪৪.২০.০০</td><td>দ্বি-অক্ষ বিশিষ্ট (co-axial) তার এবং অন্যান্য দ্বি-<br>অক্ষ বিশিষ্ট (co-axial) বৈদ্যুতিক পরিবাহী</td><td>৩০</td></tr><tr><td>৮৫৪৪.৪২.০০</td><td>Other electric conductors for a voltage<br>not exceeding 1,000 V fitted with<br>connectors</td><td>২০</td></tr><tr><td>৮৫৪৪.৭০.০০</td><td>Optical fibre cables</td><td>১০</td></tr><tr><td>৮৫.৪৫</td><td>৮৫৪৫.৯০.৯০</td><td>ল্যাম্প কার্বন, ব্যাটারী কার্বন, এবং ইলেকট্রিক্যাল<br>কাজে ব্যবহৃত অন্যান্য পণ্য</td><td>১০</td></tr><tr><td rowspan="3">৮৭.০২</td><td>৮৭০২.১০.৪১</td><td>Human hauler</td><td>৩০</td></tr><tr><td>৮৭০২.১০.৪৯</td><td>Microbus, having a seating capacity not<br>exceeding 15, including the driver</td><td>২০</td></tr><tr><td>৮৭০২.৯০.৪০</td><td>Motor vehicles built-up, having a seating<br>capacity not exceeding 15, including the<br>driver</td><td>১০</td></tr><tr><td rowspan="3">৮৭.০৩</td><td rowspan="3">সংশ্লিষ্ট<br>এইচ,এস,কোড</td><td colspan="2">মোটর গাড়ী এবং অন্যান্য মোটরযান, স্টেশন<br>ওয়াগনসহ:</td></tr><tr><td>(১) ইঞ্জিনসহ অটো রিক্সা/ থ্রি হুইলার</td><td>২০</td></tr><tr><td>(২) সম্পূর্ণ তৈরি ইঞ্জিনসহ চার স্ট্রোক বিশিষ্ট<br>সিএনজি ও ব্যাটারী চালিত অটো রিক্সা/থ্রি হুইলার</td><td>২০</td></tr></tbody></table>

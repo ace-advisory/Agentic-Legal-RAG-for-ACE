@@ -1,0 +1,53 @@
+# ================================================================
+# Legal Document Processing Pipeline - Requirements
+# Google Colab + OpenAI Processing + Groq QnA + Pinecone Storage
+# ================================================================
+
+# Core LLM and Embeddings
+langchain-groq
+langchain-openai
+langchain-core
+
+# Vector Database
+pinecone
+
+# Data Models and Validation
+pydantic
+
+# Data Processing
+pandas
+numpy
+
+# Text Processing and Tokenization
+tiktoken
+
+# Async Processing
+asyncio-throttle
+
+# Date and Time Handling
+python-dateutil
+
+# ================================================================
+# Optional File Format Support
+# Uncomment the ones you need based on your document formats
+# ================================================================
+
+# PDF Support
+PyPDF2
+
+# Microsoft Word Support (.docx, .doc)
+python-docx
+
+# Rich Text Format Support (.rtf)
+striprtf
+
+# ================================================================
+# Development and Logging (Optional)
+# ================================================================
+
+# Enhanced logging (optional)
+colorlog
+
+# Progress bars for batch processing (optional)
+tqdm
+

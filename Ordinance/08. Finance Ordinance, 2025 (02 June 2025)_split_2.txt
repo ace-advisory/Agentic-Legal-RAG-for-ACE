@@ -1,0 +1,170 @@
+পৃষ্ঠা/Page 11
+--------------------------------------------------
+Heading(BN) | HS Code | Description | SD% (BN) [SD% numeric]
+০৩.০৪ | ০৩০৪.৪১.১০, ০৩০৪.৪১.৯০ | Pacific salmon | ১০ [10]
+০৩.০৪ | ০৩০৪.৮১.১০, ০৩০৪.৮১.৯০ | Pacific salmon | ১০ [10]
+০৩.০৪ | ০৩০৪.৮৭.১০, ০৩০৪.৮৭.৯০ | Tunas (of the genus Thunnus), Skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis) | ১০ [10]
+০৩.০৪ | ০৩০৪.৮৯.১০, ০৩০৪.৮৯.৯০ | Other | ১০ [10]
+০৩.০৫ | ০৩০৫.৫৯.৯০ | অন্যান্য শুকনা মাছ (লবণাক্ত হউক বা না হউক), ধুমায়িত নয় (আড়াই কেজি পর্যন্ত মোড়ক বা টিনজাত ব্যতীত) | ২০ [20]
+০৩.০৬ | ০৩০৬.১৬.০০, ০৩০৬.১৭.০০ | হিমায়িত চিংড়ি | ২০ [20]
+০৩.০৯ | ০৩০৯.১০.১০, ০৩০৯.৯০.১০ | মানুষের খাওয়ার উপযোগী মাছের টুকরা বা গুঁড়া (আড়াই কেজি পর্যন্ত মোড়ক বা টিনজাত) | ১০ [10]
+০৪.০৫ | সকল এইচ,এস,কোড | মাখন এবং অন্যান্য দুগ্ধজাত চর্বি ও তৈল; ডেইরী স্পেডস্ | ২০ [20]
+০৪.০৬ | সকল এইচ,এস,কোড | Cheese and Curd | ২০ [20]
+০৭.০২ | সকল এইচ,এস,কোড | তাজা বা ঠান্ডা টমেটো | ২০ [20]
+০৭.০৬ | ০৭০৬.১০.১০ | Carrots And Turnips, Fresh Or Chilled, Wrapped/Canned upto 2.5 kg | ২০ [20]
+০৭.০৬ | ০৭০৬.১০.৯০ | Carrots And Turnips, Fresh Or Chilled, in bulk | ২০ [20]
+০৭.০৯ | সকল এইচ,এস,কোড | Other vegetables, fresh or chilled. | ২০ [20]
+
+================================================================================
+
+পৃষ্ঠা/Page 12
+--------------------------------------------------
+Heading(BN) | HS Code | Description | SD% (BN) [SD% numeric]
+০৮.০১ | ০৮০১.১১.১০, ০৮০১.১২.১০, ০৮০১.১৯.৯০, ০৮০১.২১.১০, ০৮০১.২২.১০, ০৮০১.৩২.১০, ০৮০১.৩২.৯০ | Coconuts, Brazil nuts, cashew nuts and other nuts, fresh or dried (Wrapped or canned upto 2.5 kg) | ২০ [20]
+০৮.০২ | ০৮০২.১১.১০, ০৮০২.১২.১০, ০৮০২.২২.১০, ০৮০২.৩১.১০, ০৮০২.৩২.১০, ০৮০২.৪১.১০, ০৮০২.৪২.১০, ০৮০২.৫১.১০, ০৮০২.৫২.১০, ০৮০২.৬১.১০, ০৮০২.৬২.১০, ০৮০২.৭০.১০, ০৮০২.৯৯.৯১ | Coconuts, Brazil nuts, cashew nuts and other nuts, fresh or dried (Wrapped or canned upto 2.5 kg) | ২০ [20]
+০৮.০২ | ০৮০২.৮০.১০, ০৮০২.৮০.৯০ | Areca Nut | ৪৫ [45]
+০৮.০২ | ০৮০২.৯১.১০, ০৮০২.৯২.১০ | Pine nuts | ৪৫ [45]
+০৮.০২ | ০৮০২.৯৯.১১, ০৮০২.৯৯.১২, ০৮০২.৯৯.১৯ | তাজা বা শুকনা সুপারি, খোসা ছাড়ানো হউক বা না হউক | ৪৫ [45]
+০৮.০৪ | ০৮০৪.৫০.৩১, ০৮০৪.৫০.৩৯ | তাজা বা শুকনা আম | ৩০ [30]
+০৮.০৫ | ০৮০৫.১০.১০, ০৮০৫.১০.৯০ | তাজা বা শুকনা কমলালেবু | ৩০ [30]
+০৮.০৫ | ০৮০৫.২১.১০, ০৮০৫.২১.৯০, ০৮০৫.২২.১০, ০৮০৫.২২.৯০, ০৮০৫.২৯.১০, ০৮০৫.২৯.৯০ | তাজা বা শুকনা লেবুজাতীয় ফল | ৩০ [30]
+================================================================================
+
+পৃষ্ঠা/Page 13
+--------------------------------------------------
+Heading(BN) | HS Code | Description | SD% (BN) [SD% numeric]
+০৮.০৫ | ০৮০৫.৪০.১০ | Grapefruit and pomelos (fresh or dried) | ৩০ [30]
+০৮.০৫ | ০৮০৫.৪০.৯০ | Grapefruit and pomelos (fresh or dried) | ৩০ [30]
+০৮.০৫ | ০৮০৫.৫০.১০, ০৮০৫.৫০৯০ | তাজা বা শুকনা লেবু | ৩০ [30]
+০৮.০৫ | ০৮০৫.৯০.১১ | তাজা বা শুকনা অন্যান্য লেবু জাতীয় ফল | ৩০ [30]
+০৮.০৫ | ০৮০৫.৯০.১৯ | তাজা বা শুকনা অন্যান্য লেবু জাতীয় ফল | ৩০ [30]
+০৮.০৫ | ০৮০৫.৯০.২১ | তাজা বা শুকনা অন্যান্য লেবু জাতীয় ফল | ৩০ [30]
+০৮.০৫ | ০৮০৫.৯০.২৯ | তাজা বা শুকনা অন্যান্য লেবু জাতীয় ফল | ৩০ [30]
+০৮.০৬ | সকল এইচ,এস,কোড | তাজা বা শুকনা আঙ্গুর ফল | ৩০ [30]
+০৮.০৭ | সকল এইচ,এস,কোড | Melons (including watermelons) and papaws (papayas), fresh. | ৩০ [30]
+০৮.০৮ | সকল এইচ,এস,কোড (০৮০৮.৪০.১০, ০৮০৮.৪০.৯০ ব্যতীত) | তাজা আপেল ও নাশপাতি | ৩০ [30]
+০৮.০৯ | সকল এইচ,এস,কোড (০৮০৯.৪০.১১, ০৮০৯.৪০.১৯, ০৮০৯.৪০.৯১, ০৮০৯.৪০.৯৯ ব্যতীত) | Apricots, cherries, peaches (including nectarines), fresh | ৩০ [30]
+০৮.১০ | সকল এইচ,এস,কোড | অন্যান্য তাজা ফল | ৩০ [30]
+০৯.০১ | ০৯০১.১১.১০, ০৯০১.১২.১০, ০৯০১.২১.১০, ০৯০১.২২.১০, ০৯০১.৯০.১০ | Coffee; coffee husks and skins; coffee substitutes containing coffee in any proportion (Wrapped or canned upto 2.5 kg) | ২০ [20]
+০৯.০২ | ০৯০২.১০.০০, ০৯০২.২০.০০ | Green tea | ২০ [20]
+
+
+
+================================================================================
+
+পৃষ্ঠা/Page 14
+--------------------------------------------------
+Heading(BN) | HS Code | Description | SD% (BN) [SD% numeric]
+০৯.০২ | ০৯০২.৩০.০০ | Black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg | ২০ [20]
+০৯.০২ | ০৯০২.৪০.০০ | Other black tea (fermented) and other partly fermented tea | ২০ [20]
+০৯.০৪ | ০৯০৪.১১.০০, ০৯০৪.১১.৯০, ০৯০৪.১২.০০ | গোলমরিচ, চূ্র্ণ বা দলানো হউক বা না হউক | ২০ [20]
+০৯.০৬ | সকল এইচ,এস,কোড | দারুচিনি এবং দারুচিনি গাছের ফুল | ২০ [20]
+০৯.০৭ | সকল এইচ,এস,কোড | লবঙ্গ | ২০ [20]
+০৯.০৮ | ০৯০৮.৩১.১০, ০৯০৮.৩১.৯০, ০৯০৮.৩২.১০, ০৯০৮.৩২.৯০ | এলাচ | ২০ [20]
+০৯.০৯ | ০৯০৯.৩১.১০, ০৯০৯.৩১.৯০, ০৯০৯.৩২.১০, ০৯০৯.৩২.৯০ | জিরা | ২০ [20]
+১৫.১৩ | ১৫১৩.১৯.০০ | রিফাইন্ড নারকেল তৈল ও ইহার অংশ বিশেষ, অন্যান্য | ৩০ [30]
+১৭.০২ | ১৭০২.৩০.১০ | Dextrose anhydrous/monohydrate BP/USP Pyrogen free imported under blocklist | ২০ [20]
+১৭.০২ | ১৭০২.৩০.২০ | Liquid glucose | ২০ [20]
+১৭.০২ | ১৭০২.৩০.৯০ | Other glucose and glucose syrup | ২০ [20]
+১৭.০২ | ১৭০২.৪০.০০ | Glucose and glucose syrup, containing in the dry state at least 20% but less than 50% by weight of fructose, excluding invert sugar | ২০ [20]
+
+
+================================================================================
+
+পৃষ্ঠা/Page 15
+--------------------------------------------------
+Heading(BN) | HS Code | Description | SD% (BN) [SD% numeric]
+১৭.০৪ | ১৭০৪.১০.১০, ১৭০৪.৯০.১০ | Sugar confectionery (including white chocolate), not containing cocoa, put up for retail sale | ৪৫ [45]
+১৭.০৪ | ১৭০৪.৯০.১০, ১৭০৪.৯০.৯০ | Sugar confectionery (including white chocolate), not containing cocoa, excluding put up for retail sale | ৪৫ [45]
+১৮.০৬ |  | কোকাযুক্ত চকলেট এবং অন্যান্য খাদ্য প্রিপারেশনঃ |  []
+১৮.০৬ | ১৮০৬.২০.০০ | কোকাযুক্ত চকলেট এবং অন্যান্য খাদ্য প্রিপারেশন (২ কেজির উর্ধ্বে ব্লক, স্লাব বা বার আকারে অথবা তরল, পেস্ট, গুঁড়া, দানাদার বা অন্যরূপে বাল্ক প্যাকিং এ) | ৪৫ [45]
+১৮.০৬ | ১৮০৬.৩১.০০, ১৮০৬.৩২.০০ | ফিনিস্ড চকলেট (ব্লক, স্লাব বা বার আকারে) | ৪৫ [45]
+১৮.০৬ | ১৮০৬.৯০.০০ | অন্যান্য | ২০ [20]
+১৯.০১ | ১৯০১.১০.০০ | খুচরা মোড়কে শূন্য থেকে ১ বছরের শিশুদের ব্যবহারের জন্য খাদ্য সামগ্রী (হেডিং নং ০৪.০১ থেকে ০৪.০৪ ভূক্ত পণ্যজাত) | ২০ [20]
+১৯.০১ | ১৯০১.২০.০০ | Mixes and dough's for the preparation of bakers' wares of heading 19.05 | ২০ [20]
+১৯.০১ | ১৯০১.৯০.৯১ | Malt extract/food preparations Imported in bulk by VAT registered food processing industries | ২০ [20]
+১৯.০১ | ১৯০১.৯০.৯১ | অন্যান্য খাদ্য সামগ্রী | ২০ [20]
+১৯.০২ | সকল এইচ,এস,কোড | Pasta, whether or not cooked or stuffed or otherwise prepared; couscous | ২০ [20]
+১৯.০৪ | সকল এইচ,এস,কোড | Prepared foods obtained by the swelling or roasting of cereals or cereal products; all types of cereals | ২০ [20]
+১৯.০৫ | ১৯০৫.৩১.০০ | Sweet biscuits | ৪৫ [45]
+১৯.০৫ | ১৯০৫.৩২.০০ | Waffles and wafers | ৪৫ [45]
+১৯.০৫ | ১৯০৫.৪০.০০ | Rusks, toasted bread and similar toasted products | ৪৫ [45]
+১৯.০৫ | ১৯০৫.৯০.০০ | Other | ৪৫ [45]
+
+
+================================================================================
+
+পৃষ্ঠা/Page 16
+--------------------------------------------------
+Heading(BN) | HS Code | Description | SD% (BN) [SD% numeric]
+২০.০৫ | ২০০৫.২০.০০ | পটেটো চিপস্ | ৪৫ [45]
+২০.০৭ | সকল এইচ,এস,কোড | রান্নার ফলে প্রাপ্ত জ্যাম, ফলের জেলি, মারমালেডস, ফল বা বাদামযুক্ত পিউরি এবং ফল বা বাদামের পেস্ট, চিনি বা অন্যান্য মিষ্টি পদার্থ যুক্ত হউক বা না হউক | ২০ [20]
+২০.০৮ | সকল এইচ,এস,কোড | Fruit, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included. | ২০ [20]
+২০.০৯ | সকল এইচ,এস,কোড | ফলের রস (আঙ্গুরের must সহ) বা সবজির রস, গাঁজানো নহে বা স্পিরিটযুক্ত নহে, চিনি বা অন্যান্য মিষ্টি পদার্থ যুক্ত হউক বা না হউক | ৩০ [30]
+২১.০১ | সকল এইচ,এস,কোড | Extracts, essences and concentrates, of coffee, tea or mate and preparations | ২০ [20]
+২১.০৩ | সকল এইচ,এস,কোড | সস এবং অনুরূপ পণ্য; mixed condiments, সরিষার গুঁড়া এবং অন্যান্য পণ্য | ২০ [20]
+২১.০৫ | ২১০৫.০০.০০ | Ice cream and other edible ice, whether or not containing cocoa | ২০ [20]
+২১.০৬ | ২১০৬.৯০.১০ | সুগন্ধি দ্রব্যের মিশ্রণ ব্যতীত কোমল পানীয় প্রস্তুতে ব্যবহৃত সামগ্রী, আয়তন ভিত্তিক এ্যালকোহল ক্ষমতা ০.৫% এর উর্ধ্বে | ৩৫০ [350]
+২১.০৬ | ২১০৬.৯০.৪৯ | Other Stabilizer for milk | ১০ [10]
+২১.০৬ | ২১০৬.৯০.৫০ | Creamer in bulk imported by VAT registered milk foodstuffs manufacturers | ২০ [20]
+২১.০৬ | ২১০৬.৯০.৬০ | Food supplement | ২০ [20]
+২১.০৬ | ২১০৬.৯০.৯০ | অন্যান্য | ২০ [20]
+২২.০১ | সকল এইচ,এস,কোড | Waters, including natural or artificial mineral waters and aerated waters, not containing added sugar or other sweetening matter nor flavoured; ice and snow | ২০ [20]
+
+================================================================================
+
+পৃষ্ঠা/Page 17
+--------------------------------------------------
+**Table:**
+
+<table><thead><tr><th>শিরনামা<br>সংখ্যা<br>(Heading)</th><th>সামঞ্জস্যপূর্ণ<br>নামকরণ কোড<br>(H.S. Code)</th><th>পণ্যসমূহের বিবরণ<br>(Description of Goods)</th><th>সম্পূরক<br>শুল্কহার<br>(%)</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td rowspan="3">২২.০২</td><td>২২০২.১০.০০</td><td>Waters, including mineral waters and aerated waters containing added sugar of other sweetening matter or flavoured</td><td>১০০</td></tr><tr><td>২২০২.৯১.০০</td><td>নন-এ্যালকোহলিক বিয়ার</td><td>১০০</td></tr><tr><td>২২০২.৯৯.০০</td><td>অন্যান্য</td><td>১০০</td></tr><tr><td>২২.০৩</td><td>২২০৩.০০.০০</td><td>মল্ট হইতে প্রস্তুত বিয়ার</td><td>২৫০</td></tr><tr><td>২২.০৪</td><td>সকল<br>এইচ,এস,কোড</td><td>তাজা আঙ্গুরের মদ্য, ফর্টিফাইড মদ্যসহ; (২০.০৯ হেডিংভুক্ত grape must ব্যতীত)</td><td>৩৫০</td></tr><tr><td>২২.০৫</td><td>সকল<br>এইচ,এস,কোড</td><td>ভারমুথ এবং তাজা আঙ্গুরের তৈরি মদ্য, সুবাসিত</td><td>৩৫০</td></tr><tr><td>২২.০৬</td><td>২২০৬.০০.০০</td><td>অন্যান্য গাঁজানো পানীয় (উদাহরণস্বরূপ সিডার, পেরী)</td><td>৩৫০</td></tr><tr><td>২২.০৮</td><td>সকল<br>এইচ,এস,কোড</td><td>Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% volume, spirits, liquors and other spirituous beverages</td><td>৩৫০</td></tr><tr><td>২৪.০১</td><td>সকল<br>এইচ,এস,কোড</td><td>Unmanufactured Tobacco, Tobacco refuse</td><td>১০০</td></tr><tr><td rowspan="3">২৪.০২</td><td>২৪০২.১০.০০</td><td>তামাকের তৈরি সিগার, চুরুট ও সিগারিল্লো</td><td>৩৫০</td></tr><tr><td>২৪০২.২০.০০</td><td>তামাকের তৈরি সিগারেট</td><td>৩৫০</td></tr><tr><td>২৪০২.৯০.০০</td><td>হাতে বা অযান্ত্রিক পদ্ধতিতে তৈরি বিড়ি এবং অন্যান্য</td><td>১৫০</td></tr><tr><td>২৪.০৩</td><td>সকল<br>এইচ,এস,কোড</td><td>অন্যান্য প্রস্তুতকৃত তামাক এবং সমজাতীয় পদার্থ; তামাকের “homogenised” বা “reconstituted” নির্জাস বা সুগন্ধি</td><td>১৫০</td></tr><tr><td>২৪.০৪</td><td>সকল<br>এইচ,এস,কোড</td><td>Products containing tobacco, reconstituted tobacco, nicotine, or tobacco or nicotine substitutes, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body.</td><td>১৫০</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 18
+--------------------------------------------------
+Heading(BN) | HS Code | Description | SD% (BN) [SD% numeric]
+২৫.০১ | ২৫০১.০০.১০ | Pure sodium chloride BP/USP pyrogen free | ২০ [20]
+২৫.০১ | ২৫০১.০০.২০ | Salt (other than pure sodium chloride) not in aqueous solution including salt boulder for crushing and salt in bulk | ২০ [20]
+২৫.০১ | ২৫০১.০০.৩০ | Rock salt, bhit lobon | ২০ [20]
+২৫.০১ | ২৫০১.০০.৯১ | Denatured salt (coloured) | ২০ [20]
+২৫.০১ | ২৫০১.০০.৯৯ | অন্যান্য লবণ | ২০ [20]
+২৫.১৫ | ২৫১৫.১১.০০ | মার্বেল এবং ট্রেভারটিন (আপাত: আপেক্ষিক পুরুত্ব ২.৫% বা তার বেশী), ক্রুড বা স্কুলভাবে কর্তিত | ৪৫ [45]
+২৫.১৫ | ২৫১৫.১২.০০ | Merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape | ৪৫ [45]
+২৫.১৫ | ২৫১৫.২০.০০ | Ecsussine and other calcareous monumental or building stone; alabaster | ৪৫ [45]
+২৫.১৬ | ২৫১৬.১১.০০ | গ্রানাইট (স্কুলভাবে কর্তিত) | ৪৫ [45]
+২৫.১৬ | ২৫১৬.১২.০০ | গ্রানাইটঃ করাত দ্বারা বা অন্য প্রকারে ব্লক অথবা চতুর্ভুজ বা বর্গাকার স্লাব হিসাবে কর্তিত | ৪৫ [45]
+২৫.১৬ | ২৫১৬.৯০.১০ | বোল্ডার স্টোন | ১০ [10]
+২৫.১৭ | ২৫১৭.১০.৯০ | Pebbles, gravel, broken or crushed stone (excl. imported by VAT registered ceramic products manufacturing industries) | ৩০ [30]
+২৫.১৭ | ২৫১৭.৪৯.০০ | Other Pebbles, gravel, broken or crushed stone | ৩০ [30]
+২৫.২১ | ২৫২১.০০.৯১ | Boulder Lime stone | ১০ [10]
+২৫.২১ | ২৫২১.০০.৯৯ | Other | ৩০ [30]
+২৫.২৩ | ২৫২৩.২১.০০ | পোর্টল্যান্ড সিমেন্টঃ সাদা, কৃত্রিমভাবে রঞ্জীন করা হুটক বা না হুটক | ২০ [20]
+২৫.২৩ | ২৫২৩.২৯.০০ | অন্যান্য পোর্টল্যান্ড সিমেন্ট | ২০ [20]
+
+
+================================================================================
+
+পৃষ্ঠা/Page 19
+--------------------------------------------------
+**Table:**
+
+<table border="1"><thead><tr><th>শিরনামা<br>সংখ্যা<br>(Heading)</th><th>সামঞ্জস্যপূর্ণ<br>নামকরণ কোড<br>(H.S. Code)</th><th>পণ্যসমূহের বিবরণ<br>(Description of Goods)</th><th>সম্পূরক<br>শুল্কহার<br>(%)</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>২৮.০৭</td><td>২৮০৭.০০.০০</td><td>সালফিউরিক এসিড, ওলিয়াম</td><td>২০</td></tr><tr><td rowspan="2">২৮.৩৩</td><td>২৮৩৩.১১.০০</td><td>Disodium sulphate</td><td>২০</td></tr><tr><td>২৮৩৩.১৯.০০</td><td>Sodium sulphates</td><td>২০</td></tr><tr><td>২৯.১৫</td><td>২৯১৫.৭০.৩২</td><td>Sodium salt of palmitic acid (soap noodle) imported by other</td><td>২০</td></tr><tr><td rowspan="5">২৯.১৭</td><td>২৯১৭.৩২.১০</td><td>Dioctyl orthophthalates pharmaceutical grade imported under block list by VAT registered pharmaceutical industry</td><td>১০</td></tr><tr><td>২৯১৭.৩২.৯০</td><td>ডাইঅক্টাইল অর্থোথেলেটস (ডি ও পি)</td><td>১০</td></tr><tr><td>২৯১৭.৩৩.০০</td><td>Dinonyl or didecyl orthophthalates</td><td>১০</td></tr><tr><td>২৯১৭.৩৪.০০</td><td>Other esters of orthophthalic acid</td><td>১০</td></tr><tr><td>২৯১৭.৩৯.৯০</td><td>Other</td><td>১০</td></tr><tr><td rowspan="6">৩২.০৮</td><td>৩২০৮.১০.১০</td><td>Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government Department and VAT registered manufacturer as raw material for their product</td><td>৩০</td></tr><tr><td>৩২০৮.১০.৯০</td><td>পলিয়েস্টার বেইজড অন্যান্য পেইন্টস, ভার্ণিশ (এনামেল লেকারসহ)</td><td>৩০</td></tr><tr><td>৩২০৮.২০.১০</td><td>Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government Department and VAT registered manufacturer as raw material for their product</td><td>৩০</td></tr><tr><td>৩২০৮.২০.৯৯</td><td>Other paints based on acrylic or vinyl polymers, in a non-aqueous medium</td><td>৩০</td></tr><tr><td>৩২০৮.৯০.১০</td><td>Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government Department and VAT registered manufacturer as raw material for their product</td><td>৩০</td></tr><tr><td>৩২০৮.৯০.৯০</td><td>অন্যান্য পেইন্টস, ভার্ণিশ এবং লেকার</td><td>৩০</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 20
+--------------------------------------------------
+Heading(BN) | HS Code | Description | SD% (BN) [SD% numeric]
+৩২.০৯ | ৩২০৯.১০.১০ | Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government Department and VAT registered manufacturer as raw material for their product | ৩০ [30]
+৩২.০৯ | ৩২০৯.১০.৯০ | এক্রেলিক ভিনাইল পলিমার বেইজড অন্যান্য পেইন্ট এন্ড ভার্ণিশ (এনামেল ও লেকারসহ) | ৩০ [30]
+৩২.০৯ | ৩২০৯.৯০.১০ | Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government Department and VAT registered manufacturer as raw material for their product | ৩০ [30]
+৩২.০৯ | ৩২০৯.৯০.৯০ | অন্যান্য পেইন্টস, ভার্ণিশ এবং লেকার | ৩০ [30]
+৩২.১০ | ৩২১০.০০.১০ | Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government Department and VAT registered manufacturer as raw material for their product | ৩০ [30]
+৩২.১০ | ৩২১০.০০.২০ | Prepared water pigments of a kind used for finishing leather, for cleaning footwear in tablet form | ৩০ [30]
+৩২.১০ | ৩২১০.০০.৯০ | অন্যান্য পেইন্ট, বার্ণিশ (এনামেল, লেকার ও ডিসটেম্পারসহ) | ৩০ [30]
+৩৩.০৩ | ৩৩০৩.০০.০০ | সুগন্ধি ও প্রসাধনী পানি | ৩০ [30]
+৩৩.০৪ | সকল এইচ,এস,কোড | সৌন্দর্য অথবা প্রসাধন সামগ্রী এবং ত্বক পরিচর্যার প্রসাধন সামগ্রী (ঔষধে ব্যবহৃত পদার্থ ব্যতীত), সানস্ক্রিন বা সান ট্যান সামগ্রী; হাত, নখ বা পায়ের প্রসাধন সামগ্রীসমূহ | ৪৫ [45]
+৩৩.০৫ | সকল এইচ,এস,কোড | কেশ পরিচর্যায় ব্যবহৃত সামগ্রী | ৬০ [60]
+৩৩.০৬ | ৩৩০৬.১০.০০ | ডেনট্রিফ্রিসেস | ২০ [20]
+৩৩.০৬ | ৩৩০৬.৯০.০০ | মুখগহবর বা দাঁতের জন্য ব্যবহৃত অন্যান্য সামগ্রী | ২০ [20]

@@ -1,0 +1,235 @@
+পৃষ্ঠা/Page 26
+--------------------------------------------------
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>49.</td><td>12.07</td><td>1207.40.90</td><td>Sesamum seeds: Other</td></tr><tr><td>50.</td><td>12.07</td><td>1207.50.90</td><td>Mustard seeds: Other</td></tr><tr><td>51.</td><td>12.09</td><td>1209.10.00</td><td>Sugar beet seeds</td></tr><tr><td>52.</td><td>12.09</td><td>1209.21.00</td><td>Seeds of forage plants: Lucerne (alfalfa) seeds</td></tr><tr><td>53.</td><td>12.09</td><td>1209.23.00</td><td>Seeds of forage plants: Fescue seeds</td></tr><tr><td>54.</td><td>12.09</td><td>1209.24.00</td><td>Seeds of forage plants: Kentucky blue grass (poa pratensis L.) seeds</td></tr><tr><td>55.</td><td>12.09</td><td>1209.25.00</td><td>Seeds of forage plants: Rye grass (Lolium multiflorum Lam., Lolium perenne L.) seeds</td></tr><tr><td>56.</td><td>12.09</td><td>1209.29.00</td><td>Seeds of forage plants: Other</td></tr><tr><td>57.</td><td>12.09</td><td>1209.30.00</td><td>Seeds of herbaceous plants cultivated principally for their flowers</td></tr><tr><td>58.</td><td>12.09</td><td>1209.91.00</td><td>Seeds, fruit and spores, of a kind used for sowing.<br/>Other: Vegetable seeds</td></tr><tr><td>59.</td><td>12.09</td><td>1209.99.00</td><td>Seeds, fruit and spores, of a kind used for sowing.<br/>Other: Other</td></tr><tr><td>60.</td><td>15.07</td><td>1507.10.00</td><td>Soya-bean oil and its fractions, whether or not refined, but not chemically modified.<br/>Crude oil, whether or not degummed</td></tr><tr><td>61.</td><td>15.07</td><td>1507.90.10</td><td>Soya-bean oil and its fractions, whether or not refined, but not chemically modified.<br/>Other: Refined</td></tr><tr><td>62.</td><td>15.07</td><td>1507.90.90</td><td>Soya-bean oil and its fractions, whether or not refined, but not chemically modified.<br/>Other: Other</td></tr><tr><td>63.</td><td>15.11</td><td>1511.10.10</td><td>Crude oil: Imported by VAT registered edible oil refinery industries</td></tr><tr><td>64.</td><td>15.11</td><td>1511.10.90</td><td>Crude oil: Other</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 27
+--------------------------------------------------
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>65.</td><td>15.11</td><td>1511.90.90</td><td>Other including refined palm oil</td></tr><tr><td>66.</td><td>15.12</td><td>1512.19.00</td><td>Sunflower-seed or safflower oil and fraction thereof: Other</td></tr><tr><td>67.</td><td>15.15</td><td>1515.29.00</td><td>Maize (corn) oil and its fractions: Other</td></tr><tr><td>68.</td><td>17.01</td><td>1701.12.00</td><td>Raw sugar not containing added flavouring or colouring matter: Beet sugar</td></tr><tr><td>69.</td><td>17.01</td><td>1701.13.00</td><td>Cane sugar specified in Subheading Note 2 to Chapter 17 of FIRST SCHEDULE of কাস্টমস আইন, ২০২৩</td></tr><tr><td>70.</td><td>23.01</td><td>2301.10.10</td><td>Flours, meals and pellets, of meat or meat offal; greaves: Wrapped/ canned upto 2.5 kg</td></tr><tr><td>71.</td><td>23.01</td><td>2301.10.90</td><td>Flours, meals and pellets, of meat or meat offal; greaves: Other</td></tr><tr><td>72.</td><td>23.01</td><td>2301.20.10</td><td>Flours, meals and pellets, of fish or of crustaceans, molluscs or other aquatic invertebrates: Wrapped/canned upto 2.5 kg</td></tr><tr><td>73.</td><td>23.01</td><td>2301.20.90</td><td>Flours, meals and pellets, of fish or of crustaceans, molluscs or other aquatic invertebrates: Other</td></tr><tr><td>74.</td><td>23.02</td><td>2302.10.00</td><td>Bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, milling or other working of cereals or of leguminous plants. Of maize (corn)</td></tr><tr><td>75.</td><td>23.02</td><td>2302.30.00</td><td>Bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, milling or other working of cereals or of leguminous plants. Of wheat</td></tr><tr><td>76.</td><td>23.02</td><td>2302.40.10</td><td>Bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, milling or other working of cereals or of leguminous plants. Of other cereals:<br>Rice bran</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 28
+--------------------------------------------------
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>77.</td><td>23.02</td><td>2302.40.90</td><td>Bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, milling or other working of cereals or of leguminous plants.<br>Of other cereals: Other</td></tr><tr><td>78.</td><td>23.02</td><td>2302.50.00</td><td>Bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, milling or other working of cereals or of leguminous plants.<br>Of leguminous plants</td></tr><tr><td>79.</td><td>23.03</td><td>2303.10.00</td><td>Residues of starch manufacture and similar residues</td></tr><tr><td>80.</td><td>23.03</td><td>2303.20.00</td><td>Beet-pulp, bagasse and other waste of sugar manufacture</td></tr><tr><td>81.</td><td>23.05</td><td>2305.00.00</td><td>Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of ground-nut oil</td></tr><tr><td>82.</td><td>23.06</td><td>2306.10.00</td><td>Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of vegetable fats or oils, other than those of heading 23.04 or 23.05 of FIRST SCHEDULE of কাস্টমস আইন, ২০২৩<br>Of cotton seeds</td></tr><tr><td>83.</td><td>23.06</td><td>2306.20.00</td><td>Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of vegetable fats or oils, other than those of heading 23.04 or 23.05 of FIRST SCHEDULE of কাস্টমস আইন, ২০২৩<br>Of linseed</td></tr><tr><td>84.</td><td>23.06</td><td>2306.30.00</td><td>Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of vegetable fats or oils, other than those of heading 23.04 or 23.05 of FIRST SCHEDULE of কাস্টমস আইন, ২০২৩<br>Of sunflower seeds </td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 29
+--------------------------------------------------
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>85.</td><td>23.06</td><td>2306.41.00</td><td>Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of vegetable fats or oils, other than those of heading 23.04 or 23.05 of FIRST SCHEDULE of কাস্টমস আইন, ২০২৩<br>Of rape or colza seeds: Of low erucic acid rape or colza</td></tr><tr><td>86.</td><td>23.06</td><td>2306.49.00</td><td>Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of vegetable fats or oils, other than those of heading 23.04 or 23.05 of FIRST SCHEDULE of কাস্টমস আইন, ২০২৩<br>Of rape or colza seeds: Other</td></tr><tr><td>87.</td><td>23.06</td><td>2306.50.00</td><td>Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of vegetable fats or oils, other than those of heading 23.04 or 23.05 of FIRST SCHEDULE of কাস্টমস আইন, ২০২৩<br>Of coconut or copra</td></tr><tr><td>88.</td><td>23.06</td><td>2306.60.00</td><td>Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of vegetable fats or oils, other than those of heading 23.04 or 23.05 of FIRST SCHEDULE of কাস্টমস আইন, ২০২৩<br>Of palm nuts or kernels</td></tr><tr><td>89.</td><td>23.06</td><td>2306.90.00</td><td>Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of form of pellets, resulting from the extraction of vegetable fats or oils, other than those of heading 23.04 or 23.05 of FIRST SCHEDULE of কাস্টমস আইন, ২০২৩<br> Other</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 30
+--------------------------------------------------
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>90.</td><td>23.08</td><td>2308.00.00</td><td>Vegetable materials and vegetable waste, vegetable residues and by-products, whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included.</td></tr><tr><td>91.</td><td>23.09</td><td>2309.90.11</td><td>Vitamin or mineral or amino acid or combination of both (feed grade)</td></tr><tr><td>92.</td><td>23.09</td><td>2309.90.12</td><td>Vitamin premix or mineral or amino acid premix or combination of both (feed grade)</td></tr><tr><td>93.</td><td>23.09</td><td>2309.90.13</td><td>Probiotics or Prebiotics or combination of both (feed grade)</td></tr><tr><td>94.</td><td>23.09</td><td>2309.90.14</td><td>Essential oil or combination of essential oils (feed grade)</td></tr><tr><td>95.</td><td>23.09</td><td>2309.90.19</td><td>Other</td></tr><tr><td>96.</td><td>26.01</td><td>2601.11.00</td><td>Iron ores and concentrates, other than roasted iron pyrites: Non-agglomerated</td></tr><tr><td>97.</td><td>26.01</td><td>2601.12.00</td><td>Iron ores and concentrates, other than roasted iron pyrites: Agglomerated</td></tr><tr><td>98.</td><td>26.01</td><td>2601.20.00</td><td>Iron ores and concentrates, other than roasted iron pyrites: Roasted iron pyrite</td></tr><tr><td>99.</td><td>28.21</td><td>2821.10.00</td><td>Iron oxides and hydroxides</td></tr><tr><td>100.</td><td>28.33</td><td>2833.21.00</td><td>Other sulphates: Of magnesium</td></tr><tr><td>101.</td><td>28.33</td><td>2833.29.10</td><td>Zinc sulphate</td></tr><tr><td>102.</td><td>28.4</td><td>2840.19.00</td><td>Disodium tetraborate (refined borax): Other</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 31
+--------------------------------------------------
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>103.</td><td>30.02</td><td>3002.41.00</td><td>Vaccines for human medicine]</td></tr><tr><td>104.</td><td>30.06</td><td>3006.60.00</td><td>Chemical contraceptive preparations based on hormones on other products of heading 29.37 or on spermicides:</td></tr><tr><td>105.</td><td>31.01</td><td>3101.00.00</td><td>Animal or vegetable fertilisers, whether or not mixed together or chemically treated; fertilisers produced by the mixing or chemical treatment of animal or vegetable products.</td></tr><tr><td>106.</td><td>31.02</td><td>3102.10.00</td><td>Urea, whether or not in aqueous solution</td></tr><tr><td>107.</td><td>31.02</td><td>3102.29.00</td><td>Ammonium sulphate; double salts and mixtures of ammonium sulphate and ammonium nitrate: Other</td></tr><tr><td>108.</td><td>31.02</td><td>3102.30.00</td><td>Ammonium nitrate, whether or not in aqueous solution</td></tr><tr><td>109.</td><td>31.02</td><td>3102.40.00</td><td>Mixtures of ammonium nitrate with calcium carbonate or other inorganic non-fertilising substances</td></tr><tr><td>110.</td><td>31.02</td><td>3102.50.00</td><td>Sodium nitrate</td></tr><tr><td>111.</td><td>31.02</td><td>3102.60.00</td><td>Double salts and mixtures of calcium nitrate and ammonium nitrate</td></tr><tr><td>112.</td><td>31.02</td><td>3102.80.00</td><td>Mixtures of urea and ammonium nitrate in aqueous or ammoniacal solution</td></tr><tr><td>113.</td><td>31.02</td><td>3102.90.00</td><td>Other including mixtures not specified in the foregoing sub- headings</td></tr><tr><td>114.</td><td>31.03</td><td>3103.11.10</td><td>Superphosphates: Containing by weight 35% or more of diphosphorus pentaoxide (P2O5): Triple superphosphates</td></tr><tr><td>115.</td><td>31.03</td><td>3103.90.00</td><td>Mineral or chemical fertilisers, phosphatic. <br> -Other</td></tr><tr><td>116.</td><td>31.04</td><td>3104.20.00</td><td>Potassium chloride</td></tr><tr><td>117.</td><td>31.05</td><td>3105.10.00</td><td>Goods of Chapter 31 of FIRST SCHEDULE of কাস্টমস আইন, ২০২৩ in tablets or similar forms or in packages of a gross weight not exceeding 10 kg </td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 32
+--------------------------------------------------
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>118.</td><td>31.05</td><td>3105.20.00</td><td>Mineral or chemical fertilisers containing the three fertilising elements nitrogen, phosphorus and potassium</td></tr><tr><td>119.</td><td>31.05</td><td>3105.59.00</td><td>Other mineral or chemical fertilisers containing the two fertilising elements nitrogen and phosphorus: Other</td></tr><tr><td>120.</td><td>31.05</td><td>3105.60.00</td><td>Mineral or chemical fertilisers containing the two fertilising elements phosphorus and potassium</td></tr><tr><td>121.</td><td>31.05</td><td>3105.90.00</td><td>Other</td></tr><tr><td>122.</td><td>39.07</td><td>3907.61.10</td><td>Poly (ethylene terephthalate): Having a viscosity number of 78 ml/g or higher-Imported by VAT registered textile yarn manufacturer</td></tr><tr><td>123.</td><td>39.07</td><td>3907.61.90</td><td>Poly (ethylene terephthalate): Having a viscosity number of 78 ml/g or higher-Other</td></tr><tr><td>124.</td><td>39.07</td><td>3907.69.10</td><td>Poly (ethylene terephthalate): Other-Imported by VAT registered textile yarn manufacturer</td></tr><tr><td>125.</td><td>Chapter 47 of First Schedule of কাস্টমস আইন, ২০২৩</td><td>All H.S code</td><td>Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard</td></tr><tr><td>126.</td><td>49.02</td><td>All H.S code</td><td>Newspapers, journals and periodicals, whether or not illustrated or containing advertising material.</td></tr><tr><td>127.</td><td>52.01</td><td>5201.00.00</td><td>Cotton, not carded or combed</td></tr><tr><td>128.</td><td>52.02</td><td>5202.99.90</td><td>Other</td></tr><tr><td>129.</td><td>52.03</td><td>5203.00.00</td><td>Cotton, carded or combed</td></tr><tr><td>130.</td><td>55.01</td><td>5501.30.10</td><td>Acrylic or modacrylic: Imported by VAT registered synthetic staple fibre manufacturer</td></tr><tr><td>131.</td><td>55.03</td><td>5503.11.00</td><td>Synthetic staple fibres, not carded,combed or otherwise processed for spinning. Of nylon or other polyamides: Of aramids</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 33
+--------------------------------------------------
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>132.</td><td>55.03</td><td>5503.20.00</td><td>Of polyesters</td></tr><tr><td>133.</td><td>55.03</td><td>5503.30.00</td><td>Acrylic or modacrylic</td></tr><tr><td>134.</td><td>55.03</td><td>5503.40.00</td><td>Of polypropylene</td></tr><tr><td>135.</td><td>55.04</td><td>All H.S code</td><td>Artificial staple fibres, not carded, combed or otherwise processed for spinning</td></tr><tr><td>136.</td><td>55.05</td><td>All H.S code</td><td>Waste (including noils, yarn waste and garneted stock) of man-made fibres.</td></tr><tr><td>137.</td><td>55.06</td><td>5506.10.00</td><td>Of nylon or other polyamides</td></tr><tr><td>138.</td><td>55.06</td><td>5506.20.00</td><td>Of polyesters</td></tr><tr><td>139.</td><td>55.06</td><td>5506.30.00</td><td>Acrylic or modacrylic</td></tr><tr><td>140.</td><td>55.06</td><td>5506.90.00</td><td>Other</td></tr><tr><td>141.</td><td>55.07</td><td>5507.00.00</td><td>Artificial staple fibres, carded, combed or otherwise processed for spinning.</td></tr><tr><td>142.</td><td>71.02</td><td>7102.21.00</td><td>Unworked or simply sawn, cleaved or bruted</td></tr><tr><td>143.</td><td>71.08</td><td>7108.12.10</td><td>Gold dores imported by Industrial IRC holder VAT compliant gold refinery</td></tr><tr><td>144.</td><td>71.08</td><td>7108.12.90</td><td>Other</td></tr><tr><td>145.</td><td>71.08</td><td>7108.13.00</td><td>Other semi-manufactured forms]</td></tr><tr><td>146.</td><td>84.07</td><td>8407.10.00</td><td>Aircraft Engine</td></tr><tr><td>147.</td><td>84.07</td><td>8407.90.90</td><td>Other</td></tr><tr><td>148.</td><td>84.08</td><td>8408.90.90</td><td>Other</td></tr><tr><td>149.</td><td>84.21</td><td>8421.29.20</td><td>Haemodialyser (Artificial Kidney)</td></tr><tr><td>150.</td><td>84.43</td><td>8443.32.10</td><td>Computer printer</td></tr><tr><td>151.</td><td>84.43</td><td>8443.99.10</td><td>Toner cartridge/Inkjet cartridge for Computer Printer</td></tr><tr><td>152.</td><td>84.43</td><td>8443.99.20</td><td>Other parts for Computer Printer</td></tr><tr><td>153.</td><td>84.73</td><td>8473.30.00</td><td>Parts and accessories of the machines of heading No.84.71 of FIRST SCHEDULE of কাস্টমস আইন, ২০২৩</td></tr><tr><td>154.</td><td>85.17</td><td>8517.62.10</td><td>Transmitting and receiving apparatus</td></tr><tr><td>155.</td><td>85.17</td><td>8517.62.20</td><td>Telephonic or telegraphic switching apparatus</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 34
+--------------------------------------------------
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>156.</td><td>85.17</td><td>8517.62.30</td><td>Modem; Ethernet interface card; network switch; hub; router</td></tr><tr><td>157.</td><td>85.23</td><td>8523.29.12</td><td>Database; operating systems; development tools; productivity; communication or collaboration software</td></tr><tr><td>158.</td><td>85.23</td><td>8523.29.90</td><td>Other</td></tr><tr><td>159.</td><td>85.23</td><td>8523.49.21</td><td>Database; operating systems; development tools; productivity; communication or collaboration software</td></tr><tr><td>160.</td><td>85.23</td><td>8523.49.90</td><td>Other</td></tr><tr><td>161.</td><td>85.23</td><td>8523.51.10</td><td>Flash memory card or similar media</td></tr><tr><td>162.</td><td>85.23</td><td>8523.59.10</td><td>Proximity Cards and tags</td></tr><tr><td>163.</td><td>85.25</td><td>8525.50.90</td><td>Transmission apparatus: Other</td></tr><tr><td>164.</td><td>85.25</td><td>8525.60.90</td><td>Transmission apparatus incorporating reception apparatus: Other</td></tr><tr><td>165.</td><td>85.28</td><td>8528.42.00</td><td>Cathode-ray tube monitors: Capable of directly connecting to and designed for use with an automatic data processing machine of heading 84.71</td></tr><tr><td>166.</td><td>85.28</td><td>8528.52.10</td><td>Computer monitor size not exceeding 22 inch</td></tr><tr><td>167.</td><td>87.02</td><td>8702.90.11</td><td>Built-up, Double Decker bus: Using CNG/LPG/LNG as fuel</td></tr><tr><td>168.</td><td>87.13</td><td>8713.10.00</td><td>Carriages for disabled persons- Not mechanically propelled</td></tr><tr><td>169.</td><td>87.13</td><td>8713.90.00</td><td>Wheel Chair</td></tr><tr><td>170.</td><td>88.02</td><td>8802.20.00</td><td>Aeroplanes and other aircraft, of an unladen weight not exceeding 2,000 kg</td></tr><tr><td>171.</td><td>88.02</td><td>8802.30.00</td><td>Aeroplanes and other aircraft, of an unladen weight exceeding 2,000 kg but not exceeding 15,000 kg</td></tr><tr><td>172.</td><td>88.02</td><td>8802.40.00</td><td>Aeroplanes and other aircraft, of an unladen weight exceeding 15,000 kg</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 35
+--------------------------------------------------
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>173.</td><td>90.18</td><td>9018.90.20</td><td>Hemo dialysis machine/Baby incubator/ Baby warmer</td></tr><tr><td>174.</td><td>90.18</td><td>9018.90.30</td><td>Angiographic catheter, guide catheter, guide wire, introducer sheath, PTCA dilatation catheter, balloons, stents</td></tr><tr><td>175.</td><td>90.21</td><td>9021.29.00</td><td>Artificial teeth and dental fittings: Other</td></tr><tr><td>176.</td><td>90.21</td><td>9021.31.00</td><td>Other artificial parts of the body: Artificial joints</td></tr><tr><td>177.</td><td>90.21</td><td>9021.39.00</td><td>Other artificial parts of the body: Other</td></tr><tr><td>178.</td><td>90.21</td><td>9021.40.00</td><td>Hearing aids, excluding parts and accessories</td></tr><tr><td>179.</td><td>91.01</td><td>9101.19.10</td><td>Specially designed for the use of the blind</td></tr><tr><td>180.</td><td>91.01</td><td>9101.29.10</td><td>Specially designed for the use of the blind</td></tr><tr><td>181.</td><td>91.01</td><td>9101.91.10</td><td>Specially designed for the use of the blind</td></tr><tr><td>182.</td><td>91.01</td><td>9101.99.10</td><td>Specially designed for the use of the blind</td></tr><tr><td>183.</td><td>91.02</td><td>9102.11.10</td><td>Specially designed for the use of the blind</td></tr><tr><td>184.</td><td>91.02</td><td>9102.19.10</td><td>Specially designed for the use of the blind</td></tr><tr><td>185.</td><td>91.02</td><td>9102.21.10</td><td>Specially designed for the use of the blind</td></tr><tr><td>186.</td><td>91.02</td><td>9102.29.10</td><td>Specially designed for the use of the blind</td></tr><tr><td>187.</td><td>91.02</td><td>9102.91.10</td><td>Specially designed for the use of the blind</td></tr><tr><td>188.</td><td>91.02</td><td>9102.99.10</td><td>Specially designed for the use of the blind</td></tr><tr><td>189.</td><td>96.12</td><td>9612.10.10</td><td>Ribbons: Computer printer ribbons</td></tr><tr><td>190.</td><td>--</td><td>--</td><td>Double decker bus run by compressed natural gas (CNG) or any bus having a capacity of forty or more seats run by compressed natural gas (CNG) (H.S. 
+Heading 87.02) </td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 36
+--------------------------------------------------
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>191.</td><td>--</td><td>--</td><td>Capital machinery, not imported for commercial purpose.</td></tr><tr><td>192.</td><td>--</td><td>--</td><td>Triple super phosphates, DAP fertilizer, MOP fertilizer and NPK fertilizer, ammonium sulfate, potassium sulfate, magnesium sulfate and solubor (boron)</td></tr></tbody></table>
+
+(চ) নিম্নবর্ণিত সারণী-৫ এ উল্লিখিত ভুটান থেকে পণ্য আমদানির ক্ষেত্রে আমদানিকৃত পণ্য মূল্যের উপর ০% (শূন্য শতাংশ) হারে:-
+
+সারণী-৫
+
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>1.</td><td>07.04</td><td>All H. S. Code</td><td>Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled.</td></tr><tr><td>2.</td><td>07.08</td><td>All H. S. Code</td><td>Leguminous vegetables, shelled or unshelled, fresh or chilled.</td></tr><tr><td>3.</td><td>07.09</td><td>All H. S. Code</td><td>Other vegetables, fresh or chilled.</td></tr><tr><td>4.</td><td>08.05</td><td>0805.10.10</td><td>Oranges: Wrapped/canned upto 2.5 kg</td></tr><tr><td>5.</td><td>08.05</td><td>0805.10.90</td><td>Oranges: Other</td></tr><tr><td>6.</td><td>08.08</td><td>All H. S. Code</td><td>Apples, pears and quinces, fresh.</td></tr><tr><td>7.</td><td>09.04</td><td>0904.21.10</td><td>Fruits of the genus Capsicum or of the genus Pimenta,: dried or neither crushed or ground: Wrapped/canned upto 2.5 kg</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 37
+--------------------------------------------------
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>8.</td><td>09.04</td><td>0904.21.90</td><td>Fruits of the genus Capsicum or of the genus Pimenta,; dried or neither crushed or ground: Other</td></tr><tr><td>9.</td><td>09.08</td><td>0908.31.10</td><td>Cardamoms: Neither Crushed or ground: Wrapped/ canned upto 2.5 kg</td></tr><tr><td>10.</td><td>09.08</td><td>0908.31.90</td><td>Cardamoms: Neither Crushed or ground: Other</td></tr><tr><td>11.</td><td>09.08</td><td>0908.32.10</td><td>Cardamoms: Crushed or ground: Wrapped/canned upto 2.5 kg</td></tr><tr><td>12.</td><td>09.08</td><td>0908.32.90</td><td>Cardamoms : Crushed or ground: other</td></tr><tr><td>13.</td><td>09.10</td><td>0910.11.10</td><td>Ginger: Neither Crushed or ground: Wrapped/ canned upto 2.5 kg</td></tr><tr><td>14.</td><td>09.10</td><td>0910.11.90</td><td>Ginger: Neither Crushed or ground: Other</td></tr><tr><td>15.</td><td>09.10</td><td>0910.12.10</td><td>Ginger: Crushed or ground: Wrapped/canned upto 2.5 kg</td></tr><tr><td>16.</td><td>09.10</td><td>0910.12.90</td><td>Ginger: Crushed or ground: Other</td></tr><tr><td>17.</td><td>13.01</td><td>1301.90.00</td><td>Other</td></tr><tr><td>18.</td><td>20.09</td><td>All H. S. Code</td><td>Fruit or nut juices (including grape must and coconut water) and vegetable juices, unfermented not containing added spirit, whether or not containing added sugar or other sweetening matter.</td></tr><tr><td>19.</td><td>25.16</td><td>2516.90.10</td><td>Boulder stone</td></tr><tr><td>20.</td><td>25.18</td><td>2518.10.00</td><td>Dolomite, not calcined or sintered</td></tr><tr><td>21.</td><td>25.18</td><td>2518.20.00</td><td>Calcined or sintered dolomite</td></tr><tr><td>22.</td><td>25.18</td><td>2518.30.00</td><td>Dolomite ramming mix</td></tr><tr><td>23.</td><td>25.20</td><td>2520.10.10</td><td>Gypsum; anhydrite: Gypsum, imported as fertilizer</td></tr><tr><td>24.</td><td>25.20</td><td>2520.10.90</td><td>Gypsum; anhydrite: Other</td></tr><tr><td>25.</td><td>25.21</td><td>2521.00.10</td><td>Imported by VAT registered lime or cement or calcium carbonate manufacturers</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 38
+--------------------------------------------------
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>26.</td><td>25.21</td><td>2521.00.91</td><td>Boulder limestone</td></tr><tr><td>27.</td><td>25.21</td><td>2521.00.99</td><td>Other</td></tr><tr><td>28.</td><td>38.16</td><td>3816.00.90</td><td>Other</td></tr><tr><td>29.</td><td>44.03</td><td>All H.S code</td><td>Wood in the rough, whether or not stripped of bark or sapwood, or roughly squared.</td></tr><tr><td>30.</td><td>44.04</td><td>All H.S code</td><td>Hoopwood; split poles; piles, pickets and stakes of wood, pointed but not sawn lengthwise; wooden sticks, roughly trimmed but not turned, bent or otherwise worked, suitable for the manufacture of walking-sticks, umbrellas, tool handles or the like; chip wood and the like.</td></tr><tr><td>31.</td><td>44.05</td><td>All H.S code</td><td>Wood wool; wood flour.</td></tr><tr><td>32.</td><td>72.02</td><td>7202.21.00</td><td>Ferro-silicon: Containing by weight more than 55% of silicon</td></tr><tr><td>33.</td><td>72.07</td><td>7207.19.00</td><td>Other:</td></tr></tbody></table>
+
+(ছ) নিম্নবর্ণিত সারণী-৬ এ উল্লিখিত পণ্য আমদানীর ক্ষেত্রে ইন্ডাস্ট্রিয়াল আইআরসি-ধারী কোনো মূসক নিবন্ধিত উৎপাদক কর্তৃক আমদানিকৃত পণ্য মূল্যের উপর ৩% (তিন শতাংশ) হারে:-
+
+সারণী-৬
+
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>1.</td><td>04.02</td><td>0402.10.91</td><td>Milk and cream, concentrated or containing added sugar or other sweetening matter, in powder, granules or other solid forms, of a fat content,  by weight, not exceeding 1.5%- other </td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 39
+--------------------------------------------------
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>2.</td><td>04.02</td><td>0402.21.91</td><td>In powder, granules or other solid forms, of a fat content, by weight, exceeding 1.5%, not containing added sugar or other sweetening matter</td></tr><tr><td>3.</td><td>25.06</td><td>2506.10.00</td><td>Quartz</td></tr><tr><td>4.</td><td>25.06</td><td>2506.20.00</td><td>Quartzite</td></tr><tr><td>5.</td><td>25.07</td><td>2507.00.11</td><td>China clays</td></tr><tr><td>6.</td><td>25.08</td><td>2508.40.11</td><td>Ball clays</td></tr><tr><td>7.</td><td>25.08</td><td>2508.30.00</td><td>Fire clay</td></tr><tr><td>8.</td><td>25.17</td><td>2517.10.10</td><td>Pebbles, gravel, broken or crushed stone, of a kind commonly used for concrete aggregates, for road metalling or for railway or other ballast, shingle and flint, whether or not heat-treated</td></tr><tr><td>9.</td><td>25.18</td><td>2518.10.00</td><td>Dolomite not calcined or sintered</td></tr><tr><td>10.</td><td>25.20</td><td>2520.20.00</td><td>Plasters</td></tr><tr><td>11.</td><td>25.21</td><td>2521.00.10</td><td>Limestone only used for cement manufacturing</td></tr><tr><td>12.</td><td>25.26</td><td>2526.20.00</td><td>Talc</td></tr><tr><td>13.</td><td>25.29</td><td>2529.10.00</td><td>Feldspar</td></tr><tr><td>14.</td><td>26.18</td><td>2618.00.00</td><td>Slag only used for cement manufacturing</td></tr><tr><td>15.</td><td>26.20</td><td>2620.99.10</td><td>Fly Ash only used for cement manufacturing</td></tr><tr><td>16.</td><td>27.04</td><td>2704.00.00</td><td>Coke and semi-coke of coal, of lignite or of peat; retort carbon</td></tr><tr><td>17.</td><td>28.18</td><td>2818.20.10</td><td>Aluminium oxide, other than artificial corundum</td></tr><tr><td>18.</td><td>28.35</td><td>2835.26.00</td><td>Other phosphates of calcium</td></tr><tr><td>19.</td><td>28.36</td><td>2836.50.00</td><td>Calcium carbonate</td></tr><tr><td>20.</td><td>28.39</td><td>2839.19.00</td><td>commercial alkali metal silicates of potassium</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 40
+--------------------------------------------------
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>21.</td><td>32.07</td><td>3207.30.00</td><td>Liquid lustres and similar preparations</td></tr><tr><td>22.</td><td>32.07</td><td>3207.40.00</td><td>Glass frit and other glass, in the form of granules or flakes</td></tr><tr><td>23.</td><td>32.08</td><td>3208.20.91</td><td>Cover coat/medium</td></tr><tr><td>24.</td><td>35.06</td><td>3506.91.10</td><td>Elastic/construction glue</td></tr><tr><td>25.</td><td>48.04</td><td>4804.11.00</td><td>Kraftline- Unbleached</td></tr><tr><td>26.</td><td>48.11</td><td>4811.90.11</td><td>Melamine/Decalcomania Paper</td></tr><tr><td>27.</td><td>53.05</td><td>5305.00.10</td><td>Coco substrate; coco pellet; growing media</td></tr><tr><td>28.</td><td>72.08</td><td>7208.39.20</td><td>Hot rolled coil used only for CI sheet manufacturing</td></tr><tr><td>29.</td><td>76.01</td><td>7601.10.10</td><td>Aluminium ingot</td></tr><tr><td>30.</td><td>76.06</td><td>7606.11.10</td><td>Aluminium plates, sheets and strip, of a thickness exceeding 0.2 mm; Rectangular (including square); Of Aluminium, not alloyed</td></tr><tr><td>31.</td><td>76.06</td><td>7606.12.10</td><td>Of Aluminium, alloys</td></tr><tr><td>32.</td><td>76.07</td><td>7607.11.10</td><td>Aluminium foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0.2 mm; Rolled but not further worked</td></tr><tr><td>33.</td><td>76.07</td><td>7607.19.10</td><td>Aluminium foil lacquered</td></tr><tr><td>34.</td><td>76.07</td><td>7607.20.92</td><td>Co-polymer coated aluminium tape</td></tr><tr><td>35.</td><td>79.01</td><td>7901.11.90</td><td>Zink, Not Alloyed, &=&99.99% Pure, Nes used only for CI sheet manufacturing</td></tr></tbody></table>
+
+(জ) নিম্নবর্ণিত সারণী-৭ এ উল্লিখিত পণ্য আমদানীর ক্ষেত্রে আমদানিকৃত পণ্য মূল্যের উপর ১০% (দশ শতাংশ) হারে:-
+
+
+
+================================================================================
+
+পৃষ্ঠা/Page 41
+--------------------------------------------------
+সারণী- ৭
+
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>1.</td><td>06.03</td><td>All H. S Code</td><td>Cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared.</td></tr><tr><td>2.</td><td>06.04</td><td>All H. S Code</td><td>Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens, being goods of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared.</td></tr><tr><td>3.</td><td>08.01</td><td>All H. S Code</td><td>Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled.</td></tr><tr><td>4.</td><td>08.02</td><td>All H. S Code</td><td>Other nuts, fresh or dried, whether or not shelled or peeled.</td></tr><tr><td>5.</td><td>08.03</td><td>All H. S Code</td><td>Bananas, including plantains, fresh or dried.</td></tr><tr><td>6.</td><td>08.04</td><td>All H. S Code</td><td>Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried.</td></tr><tr><td>7.</td><td>08.05</td><td>All H. S Code</td><td>Citrus fruit, fresh or dried.</td></tr><tr><td>8.</td><td>08.06</td><td>All H. S Code</td><td>Grapes, fresh or dried.</td></tr><tr><td>9.</td><td>08.07</td><td>All H. S Code</td><td>Melons (including watermelons) and papaws (papayas), fresh.</td></tr><tr><td>10.</td><td>08.08</td><td>All H. S Code</td><td>Apples, pears and quinces, fresh.</td></tr><tr><td>11.</td><td>08.09</td><td>All H. S Code</td><td>Apricots, cherries, peaches (including nectarines), plums and sloes, fresh.</td></tr><tr><td>12.</td><td>08.10</td><td>All H. S Code</td><td>Other fruit, fresh.</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 42
+--------------------------------------------------
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>13.</td><td>08.11</td><td>All H. S Code</td><td>Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter.</td></tr><tr><td>14.</td><td>08.12</td><td>All H. S Code</td><td>Fruit and nuts, provisionally preserved, but unsuitable in that state for immediate consumption.</td></tr><tr><td>15.</td><td>08.13</td><td>All H. S Code</td><td>Fruit, dried, other than that of Headings Nos. 08.01 to 08.06; Mixtures of nuts or dried fruits</td></tr><tr><td>16.</td><td>08.14</td><td>All H. S Code</td><td>Peel of citrus fruit or melons (including watermelons), fresh, frozen, dried or provisionally preserved in brine, in sulphur water or in other preservative solutions.</td></tr><tr><td>17.</td><td>67.02</td><td>All H. S Code</td><td>Artificial flowers, foliage and fruit and parts thereof; articles made of artificial flowers, foliage or fruit.</td></tr></tbody></table>
+
+(ঝ) নিম্নবর্ণিত সারণী-৮ এ উল্লিখিত পণ্য আমদানির ক্ষেত্রে আমদানিকৃত পণ্য মূল্যের উপর ২০% (বিশ শতাংশ) হারে:-
+
+সারণী-৮
+
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>1.</td><td>22.07</td><td>2207.10.00</td><td>Undenatured Ethyl Alcohol, Of Alcoholic Strength &gt;=80% By Vol.</td></tr><tr><td>2.</td><td>22.07</td><td>2207.20.00</td><td>Ethyl Alcohol and Other Denatured Spirits Of Any Strength</td></tr><tr><td>3.</td><td>22.08</td><td>2208.20.00</td><td>Spirits From Distilled Grape Wine or Grape Marc</td></tr></tbody></table>
+
+================================================================================
+
+পৃষ্ঠা/Page 43
+--------------------------------------------------
+<table border="1"><thead><tr><th>ক্রমিক নং</th><th>শিরোনাম</th><th>এইচ এস কোড</th><th>বর্ণনা</th></tr><tr><th>(১)</th><th>(২)</th><th>(৩)</th><th>(৪)</th></tr></thead><tbody><tr><td>4.</td><td>22.08</td><td>2208.30.00</td><td>Whiskeys</td></tr><tr><td>5.</td><td>22.08</td><td>2208.40.00</td><td>Rum And Tafia</td></tr><tr><td>6.</td><td>22.08</td><td>2208.50.00</td><td>Gin And Geneva</td></tr><tr><td>7.</td><td>22.08</td><td>2208.60.00</td><td>Vodka</td></tr><tr><td>8.</td><td>22.08</td><td>2208.70.00</td><td>Liqueurs And Cordials</td></tr><tr><td>9.</td><td>22.08</td><td>2208.90.00</td><td>Other Spirituous Beverages, Nes</td></tr><tr><td>10.</td><td>33.08</td><td>3303.00.00</td><td>Perfumes And Toilet Waters</td></tr></tbody></table>
+
+(২) যেইক্ষেত্রে এই বিধির অধীন উৎসে করের প্রযোজ্যতা রহিয়াছে, এইরূপ আমদানিকারক অথবা আমদানি হইতে আয়, কোনো আয়বর্ষে করমুক্ত হয় বা হ্রাসকৃত হারে করারোপযোগ্য হয়, সেইক্ষেত্রে উক্ত আমদানিকারকের আবেদনের ভিত্তিতে বোর্ড, সংশ্লিষ্ট আয়বর্ষের জন্য কোনো কর কর্তন ছাড়াই বা হ্রাসকৃত হারে উৎসে কর কর্তনের জন্য, যেইরূপ উপযুক্ত প্রতীয়মান হয়, সেইরূপে লিখিতভাবে সনদপত্র দিতে পারিবে।
+
+(৩) এই বিধির উদ্দেশ্য পূরণকল্পে, “আমদানিকৃত পণ্যের মূল্য” বলিতে বুঝাইবে কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন) এর ধারা ২৭ অনুযায়ী নির্ধারিত আমদানি পণ্যের মূল্য।
+
+৯। উৎসে কর্তনকৃত কর জমাদানের সময়সীমা।-আইনের সপ্তম অংশের বিধান অনুসারে কর্তনকৃত অথবা সংগ্রহকৃত সকল অংক সরকারী কোষাগারে নিম্নবর্ণিত সারণী মোতাবেক জমা প্রদান করিতে হইবে:-
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>ক্রমিক নং</th>
+      <th>কর্তন ও সংগ্রহের সময়</th>
+      <th>সরকারী কোষাগারে জমাদানের তারিখ</th>
+    </tr>
+    <tr>
+      <th>(১)</th>
+      <th>(২)</th>
+      <th>(৩)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ক।</td>
+      <td>অর্থবৎসরের জুলাই থেকে মে মাসের যেকোনো কর্তন বা সংগ্রহের ক্ষেত্রে</td>
+      <td>কর্তন বা সংগ্রহের মাসের শেষে পরবর্তী ০২ (দুই) সপ্তাহের মধ্যে</td>
+    </tr>
+    <tr>
+      <td>খ।</td>
+      <td>অর্থবৎসরের জুন মাসের ১ম থেকে ২০তম দিনের যে কোনো দিনের কর্তন বা সংগ্রহের ক্ষেত্রে</td>
+      <td>কর্তন বা সংগ্রহের দিনের পরবর্তী ০৭ (সাত) দিনের মধ্যে</td>
+    </tr>
+    <tr>
+      <td>গ।</td>
+      <td>অর্থবৎসরের জুন মাসের অন্যান্য যেকোনো দিনের কর্তন বা সংগ্রহের ক্ষেত্রে</td>
+      <td>কর্তন বা সংগ্রহের পরবর্তী দিন</td>
+    </tr>
+    <tr>
+      <td>ঘ।</td>
+      <td>অর্থবৎসরের জুন মাসের শেষ কর্মদিবেসে কর কর্তন বা সংগ্রহের ক্ষেত্রে</td>
+      <td>কর্তন বা সংগ্রহের দিন</td>
+    </tr>
+  </tbody>
+</table>
+================================================================================
+
+পৃষ্ঠা/Page 44
+--------------------------------------------------
+
+১০। উৎসে কর্তনকৃত বা সংগৃহীত কর পরিশোধের পদ্ধতি।-এই আইনের অংশ ৭ এর আওতাধীন কর কর্তন বা সংগ্রহের জন্য দায়িত্বপ্রাপ্ত ব্যক্তি বিধি ৮ এ বর্ণিত নির্দিষ্ট সময়ের মধ্যে উক্ত কর্তনকৃত অথবা সংগৃহীত কর এ-চালান বা বোর্ড কর্তৃক নির্ধারিত ই-পেমেন্ট এর মাধ্যমে সরকারের অনুকূলে জমা প্রদান করিতে হইবে।
+
+১১। কর কর্তন বা আদায় ইত্যাদি সংক্রান্ত সার্টিফিকেট জারী।-(১) যেইক্ষেত্রে “চাকরি হইতে আয়” খাতের অধীন শ্রেণীকরণযোগ্য প্রাপকের আয়, যাহা সরকার কর্তৃক পরিশোধিত বেতন নয়, এর সূত্রে আইনের ধারা ১৪৫ এর অধীন কর কর্তনের আওতায় যে কোনো পরিমাণ পরিশোধ করা হইয়াছে সেইক্ষেত্রে তৎসংক্রান্ত সনদ তফসিল ২ মোতাবেক প্রদান করিতে হইবে।
+
+(২) যেইক্ষেত্রে ধারা ৮৬ ব্যতীত অন্য যে কোনো ধারার অধীন কর কর্তন করা হইয়াছে, সেক্ষেত্রে ধারা ১৪৫ এর অধীন কর কর্তনের সনদ তফসিল ৩ মোতাবেক প্রদান করিতে হইবে।
+
+(৩) যেইক্ষেত্রে অংশ ৭ এর অধীন যে কোনো পরিমাণ কর সংগ্রহ করা হইয়াছে, সেইক্ষেত্রে ধারা ১৪৫ এর অধীন কর সংগ্রহের সনদ তফসিল ৪ মোতাবেক প্রদান করিতে হইবে।
+
+(৪) কর্তনকৃত বা আদায়কৃত কর সরকারী কোষাগারে পরিশোধের এ-চালান এই বিধিতে বর্ণিত সনদ এর সাথে দাখিল করিতে হইবে।
+
+(৫) যেই মাসে কর্তন সম্পন্ন করা হইয়াছে তৎপরবর্তী মাসের ২ (দুই) সপ্তাহের মধ্যে অথবা যেই ব্যক্তি হইতে কর কর্তন বা সংগ্রহ করা হইয়াছে তাহার করদায় নিষ্পন্ন করিতে উপযোগী হয় এইরূপ সময়ের মধ্যে কর্তন বা সংগ্রহ সংক্রান্ত সনদ প্রদান করিতে হইবে।
+
+(৬) এই বিধির উদ্দেশ্যপূরণকল্পে, বিল অব এন্ট্রি, রেজিস্ট্রেশন দলিল, ব্যাংক বিবরণী, পরিশোধের দলিল অথবা কর্তন বা সংগ্রহ এর বিবরণ সংক্রান্ত তথ্যাদি সনদ হিসেবে গণ্য করা যাইবে।
+
+(৭) “চাকরি হইতে আয়” খাতের অধীন উৎস হইতে কর্তনের ক্ষেত্রে উপ-বিধি (৬) এর বিবরণী প্রযোজ্য হইবে না।
+
+১২। অব্যাহতি সনদের অকার্যকারিতা।-যেইক্ষেত্রে কোনো ব্যক্তি এই মর্মে কোনো টেন্ডার বা পণ্য সরবরাহের চুক্তি বা এই বিধিমালার অধীন কর কর্তন প্রযোজ্য হয় এইরূপ কোনো চুক্তিতে অংশগ্রহণ করেন যেখানে তৎকর্তৃক দাখিলকৃত দরপত্রে উদ্ধৃত মূল্যে বা চুক্তিতে উল্লিখিত পণের অংকে উৎসে করের অংক অন্তর্ভুক্ত সেইক্ষেত্রে উক্ত ব্যক্তি কোনো কর অব্যাহতি সনদ উপস্থাপন করিলে উহার কার্যকারিতা থাকিবে না।
+
+১৩। কর ব্যতীত পরিশোধ এর ক্ষেত্রে গ্রস-আপ পূর্বক কর কর্তন বা সংগ্রহ।-(১) যেইক্ষেত্রে অর্থ পরিশোধের জন্য দায়িত্বপ্রাপ্ত ব্যক্তি কোনো কর ব্যতীত কোনো পরিশোধ
+
+================================================================================
+
+পৃষ্ঠা/Page 45
+--------------------------------------------------
+করেন, সেইক্ষেত্রে নিম্নবর্ণিত পদ্ধতিতে পরিগণিত অঙ্কের উপর প্রযোজ্য হারে কর কর্তন করিতে হইবে, যথা:-
+
+$$গ = (১০০ \times ক)/(১০০-খ), যেখানে-$$
+
+$$গ = কর্তনের উদ্দেশ্যে পরিগণিত অঙ্ক,$$
+
+$$ক = কর ব্যতীত পরিশোধ এর পরিমাণ,$$
+
+$$খ = প্রযোজ্য করহার।$$
+
+(২) যেইক্ষেত্রে, কর ব্যতীত পরিশোধের প্রাপক,
+
+(ক) রিটার্ন দাখিলের প্রমাণ উপস্থাপনে বাধ্য কিন্তু উহা উপস্থাপনে ব্যর্থ হইয়াছেন; বা
+
+(খ) ব্যাংক ট্রান্সফারের মাধ্যমে পরিশোধ গ্রহণে ব্যর্থ হইয়াছেন,
+
+সেইক্ষেত্রে, উপ-বিধি (১) এ বর্ণিত 'খ' আইনের অংশ ৭ এর বিধানানুযায়ী নির্ধারিত হইবে।
+
+(৩) এই বিধির উদ্দেশ্যপূরণকল্পে, “কর ব্যতীত পরিশোধ” অর্থ কোনো চুক্তি বা বন্দোবস্তের আওতায় উৎসে কর কর্তন বা সংগ্রহ ব্যতিরেকে পরিশোধকারী কর্তৃক প্রাপকের বরাবর কোনো পরিশোধ।
+
+১৪। উৎসে কর কর্তন বা সংগ্রহের সাধারণ বিধান।-(১) ধারা ১১৯ এর ব্যতিক্রম সাপেক্ষে ও আইনের অংশ ৭ এ ভিন্নরূপ কোনো বিধান না থাকিলে, এই বিধিমালার অধীন কর কর্তন বা সংগ্রহের ক্ষেত্রে, যাহার নিকট হইতে কর কর্তন বা সংগ্রহ করা হইবে সেই ব্যক্তি রিটার্ন দাখিলের প্রমাণ উপস্থাপন করিতে ব্যর্থ হইলে উৎসে কর কর্তন বা সংগ্রহের হার প্রযোজ্য হার অপেক্ষা ৫০% (পঞ্চাশ শতাংশ) অধিক হইবে।
+
+(২) ভিন্নরূপ কোনো বিধান না থাকিলে, এই আইনের অংশ ৭ এর অধীন কর কর্তন বা সংগ্রহের ক্ষেত্রে, যাহার নিকট হইতে কর কর্তন বা সংগ্রহ করা হইবে সেই ব্যক্তি চুক্তিমূল্য, বিল, ভাড়া, ফি, চার্জ, রেমুনারেশন, বেতনাদি বা অন্য কোনো অর্থ পরিশোধ তাহা যে নামেই অভিহিত হউক না কেন, বাবদ কোনো অর্থ ব্যাংক ট্রান্সফারের মাধ্যমে গ্রহণ না করিলে উৎসে কর কর্তন বা সংগ্রহের হার প্রযোজ্য হার অপেক্ষা ৫০% (পঞ্চাশ শতাংশ) অধিক হইবে।
+
+১৫। উৎসে কর এর রিটার্ন দাখিল।- আইনের এর ধারা ১৭৭ মোতাবেক তফসিল ১ এ বর্ণিত উৎসে কর এর রিটার্ন দাখিল করিতে হইবে।
+
+তফসিল-১
+
+জাতীয় রাজস্ব বোর্ড
+
+www.nbr.gov.bd
+
+================================================================================
